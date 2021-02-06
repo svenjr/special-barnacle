@@ -1,0 +1,263 @@
+{
+  "153": {
+    "id": 95816,
+    "published_time": "2021-02-06T13:49:00+00:00",
+    "expires_time": "2021-02-07T13:00:00+00:00",
+    "created_at": "2021-02-06T13:19:53+00:00",
+    "updated_at": "2021-02-06T14:32:12+00:00",
+    "author": "George Halcom",
+    "product_type": "forecast",
+    "bottom_line": "<p>The Avalanche Hazard in the West Central Mountains is <span style=\"background-color: #e67e23;\">CONSIDERABLE</span><span style=\"color: #fbeeb8;\">&nbsp;<span style=\"color: #000000;\">today. Triggering a persistent slab or recently formed wind slab is possible. <strong>Because of the variability of the wind and weather over the last few days and the distribution of weak layers throughout our forecast area, cautious terrain selection is still your best bet.</strong>&nbsp; 3 <strong>human triggered avalanches have been reported in persistent weak layers in the Lick Creek Area in the last 3 days.</strong>&nbsp;</span></span></p>",
+    "hazard_discussion": "<p>There are multiple buried weak layers and crust/facet combinations in the upper portion of our snowpack right now. The addition of new and windblown snow on these layers is providing ample reasons to be cautious.&nbsp; &nbsp;Preserved weak layers are hiding in protected areas...Today and tonight winds and soft snow will load leeward slopes...natural avalanches are going to become increasingly possible as well as human triggered avalanches through today and into tomorrow.&nbsp;</p>\n<p><strong>If you see or trigger avalanche activity, please take the time to snap a picture and note the approximate elevation and aspect, you can submit an observation on our website. Getting your info helps forecasters and other users get a better picture of the conditions throughout our mountains. If you have trouble using our observations page, email us at: <a href=\"mailto:forecast@payetteavalanche.org\" target=\"_blank\" rel=\"noopener\">forecast@payetteavalanche.org</a>.</strong></p>\n<p>*Also, Please be mindful of other users, and where you are at. There are closures for motorized travel in and around the local ski areas, Granite Mtn, and other areas throughout our region.</p>\n<p>***Check out the <a title=\"Winter Travel Map\" href=\"https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd697887.pdf\" target=\"_blank\" rel=\"noopener\">Winter Travel Map</a> to find out where you can shred on your sled or moto.</p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+      {
+        "id": 1,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/image2_601d45952822c.jpeg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/image2_601d45952822c.jpeg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/image2_601d45952822c.jpeg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/image2_601d45952822c.jpeg"
+        },
+        "type": "image",
+        "caption": "(2/4/2021) 2 skier triggered avalanches have occurred in this area in the last 2 days.  The bed surface was a slick crust."
+      },
+      {
+        "id": 2,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/image1_601d45a5dcd80.jpeg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/image1_601d45a5dcd80.jpeg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/image1_601d45a5dcd80.jpeg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/image1_601d45a5dcd80.jpeg"
+        },
+        "type": "image",
+        "caption": null
+      },
+      {
+        "id": 3,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/image0_601d45b9398d0.jpeg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/image0_601d45b9398d0.jpeg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/image0_601d45b9398d0.jpeg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/image0_601d45b9398d0.jpeg"
+        },
+        "type": "image",
+        "caption": null
+      },
+      {
+        "id": 4,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/2021-02-05_601d4379b905f.png",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/2021-02-05_601d4379b905f.png",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/2021-02-05_601d4379b905f.png",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/2021-02-05_601d4379b905f.png"
+        },
+        "type": "image",
+        "caption": null
+      },
+      {
+        "id": 5,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/WWBowl2_601bfaff3be8a.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/WWBowl2_601bfaff3be8a.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/WWBowl2_601bfaff3be8a.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/WWBowl2_601bfaff3be8a.jpg"
+        },
+        "type": "image",
+        "caption": null
+      },
+      {
+        "id": 6,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Jan21Sarge%20pit_600ad8d120fe1.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Jan21Sarge%20pit_600ad8d120fe1.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Jan21Sarge%20pit_600ad8d120fe1.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Jan21Sarge%20pit_600ad8d120fe1.jpg"
+        },
+        "type": "image",
+        "caption": "(1/21/2021) Last 30 days of snow accumulation with layers. 95 cm/37.4 inches"
+      },
+      {
+        "id": 7,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_3192_6012b92f8b851.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_3192_6012b92f8b851.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_3192_6012b92f8b851.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_3192_6012b92f8b851.jpg"
+        },
+        "type": "image",
+        "caption": null
+      },
+      {
+        "id": 8,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_3197_6012b96d50bf3.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_3197_6012b96d50bf3.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_3197_6012b96d50bf3.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_3197_6012b96d50bf3.jpg"
+        },
+        "type": "image",
+        "caption": null
+      },
+      {
+        "id": 9,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_3199_6012b92fd2dd5.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_3199_6012b92fd2dd5.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_3199_6012b92fd2dd5.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_3199_6012b92fd2dd5.jpg"
+        },
+        "type": "image",
+        "caption": null
+      },
+      {
+        "id": 10,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_3193%20%281%29_6012b92d1461a.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_3193%20%281%29_6012b92d1461a.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_3193%20%281%29_6012b92d1461a.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_3193%20%281%29_6012b92d1461a.jpg"
+        },
+        "type": "image",
+        "caption": null
+      },
+      {
+        "id": 11,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_6750_6006e11ca4f44.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_6750_6006e11ca4f44.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_6750_6006e11ca4f44.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_6750_6006e11ca4f44.jpg"
+        },
+        "type": "image",
+        "caption": null
+      }
+    ],
+    "weather_data": {
+      "weather_product_id": 95815
+    },
+    "json_data": null,
+    "avalanche_center": {
+      "id": "PAC",
+      "name": "Payette Avalanche Center",
+      "url": "https://payetteavalanche.org/",
+      "city": null,
+      "state": "ID"
+    },
+    "forecast_avalanche_problems": [
+      {
+        "id": 25641,
+        "forecast_id": 95816,
+        "avalanche_problem_id": 4,
+        "rank": 1,
+        "likelihood": "likely",
+        "discussion": "<p>Almost every storm cycle, we have buried surface hoar. The mountains received over 2 feet of new snow over the last week.&nbsp; We now have a soft slab about 2-2.5 feet deep that formed over weaker snow and crusts below, which was the cause of the avalanche cycle last week.<strong> 3 skier triggered avalanches have occurred in the last 3 days at the new/old snow interface up Lick Cr Canyon---one of these we remote triggered from the ridge when we felt and heard a large whoomph. </strong></p>\n<p>Both of the other reported skier triggered avalanches, people described <span style=\"text-decoration: underline;\">easy and rapid propagation over a large area on a slick crust.</span> Triggering this slab is getting harder in most places as it is gaining strength, but as we found yesterday, it is vey well preserved and very sensitive or weak in protected areas.</p>\n<p>Check your slope angles, and think about where might the weak layers have been able to survive the Sun and wind...Avoiding steep terrain and only putting one person at a time on a slope is still your best bet.&nbsp; Adding the weight of new snow to these weak layers will be a test of the strength of them.&nbsp;</p>\n<p>&nbsp;</p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/_601e9241a47ef.jpg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/_601e9241a47ef.jpg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/_601e9241a47ef.jpg",
+            "video_id": "1FTmXuym7OM",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/_601e9241a47ef.jpg"
+          },
+          "type": "video",
+          "caption": "(2/5/2021) While touring the ridge of Sawtooth Peak, looking for a reported skier slide in “Electric Company”, that caught 2 skiers the day before,  we remote triggered this R4D3 Avalanche on a NW aspect around 7600 ft, that ran on large, well preserved buried surface Hoar. The layer was breaking away before I could isolate a column."
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle",
+          "north lower",
+          "northeast lower",
+          "east lower",
+          "southeast lower",
+          "south lower",
+          "southwest lower",
+          "west lower",
+          "northwest lower"
+        ],
+        "size": [
+          "1",
+          "3"
+        ],
+        "name": "Persistent Slab",
+        "problem_description": "Persistent Slab avalanches are the release of a cohesive layer of snow (a slab) in the middle to upper snowpack, when the bond to an underlying persistent weak layer breaks. Persistent layers include: surface hoar, depth hoar, near-surface facets, or faceted snow. Persistent weak layers can continue to produce avalanches for days, weeks or even months, making them especially dangerous and tricky. As additional snow and wind events build a thicker slab on top of the persistent weak layer, this avalanche problem may develop into a Deep Persistent Slab.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/PersistentSlab.png"
+      },
+      {
+        "id": 25642,
+        "forecast_id": 95816,
+        "avalanche_problem_id": 3,
+        "rank": 2,
+        "likelihood": "possible",
+        "discussion": "<p>Winds have been gusting from the southern portion of the compass this past week and have created sensitive wind slabs in leeward terrain. Today the winds will be moderate out of the West-Southwest ramping up tonight into the 30plus MPH range.&nbsp;</p>\n<p>East and Northeast slopes will definately see some significant wind loading, but stay alert as terrain can influence wind loading differently from slope to slope and even across micro features on a slope.&nbsp; Watch for stiff drifts and wind slabs on leeward terrain even well below the ridgetops. Avoid natural terrain traps like gullies.&nbsp; Pay attention to the consistency and density of the snow under your skis, sled, or moto while you travel through different terrain.&nbsp; A sudden change in the surface of the snow is a good indicator of wind slab formation.</p>\n<p>&nbsp;&nbsp;</p>\n<p>&nbsp;</p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_6959_601e91114506e.jpg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_6959_601e91114506e.jpg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_6959_601e91114506e.jpg",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_6959_601e91114506e.jpg"
+          },
+          "type": "image",
+          "caption": "(2/5/2021) I Kicked a wind slab on an East aspect 7,500 FT on Sawtooth Peak up Lick Cr."
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Wind Slab",
+        "problem_description": "Wind Slab avalanches are the release of a cohesive layer of snow (a slab) formed by the wind. Wind typically transports snow from the upwind sides of terrain features and deposits snow on the downwind side. Wind slabs are often smooth and rounded and sometimes sound hollow, and can range from soft to hard. Wind slabs that form over a persistent weak layer (surface hoar, depth hoar, or near-surface facets) may be termed Persistent Slabs or may develop into Persistent Slabs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/WindSlab.png"
+      }
+    ],
+    "danger": [
+      {
+        "lower": 2,
+        "upper": 3,
+        "middle": 3,
+        "valid_day": "current"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 153,
+        "name": "PAC Advisory Area",
+        "url": "https://payetteavalanche.org/forecasts/#/pac-advisory-area",
+        "state": "ID"
+      }
+    ]
+  }
+}

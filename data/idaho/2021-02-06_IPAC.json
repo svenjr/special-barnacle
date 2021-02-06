@@ -1,0 +1,539 @@
+{
+  "138": {
+    "id": 95829,
+    "published_time": "2021-02-06T14:00:00+00:00",
+    "expires_time": "2021-02-07T14:00:00+00:00",
+    "created_at": "2021-02-06T13:55:53+00:00",
+    "updated_at": "2021-02-06T14:07:32+00:00",
+    "author": "Melissa Hendrickson",
+    "product_type": "forecast",
+    "bottom_line": "<p>An Avalanche warning is in effect.&nbsp; Deadly natural and human avalanches are likely. Heavy, new snow loading and winds on top of an already unstable snow pack and an extensive buried surface hoar layer are a recipe for an avalanche cycle. Avoid traveling on or under slopes steeper than 30 degrees. Pay attention to run-out zones and don't be complacent on large road cuts or powerlines.&nbsp;&nbsp;</p>",
+    "hazard_discussion": null,
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+
+    ],
+    "weather_data": null,
+    "json_data": null,
+    "avalanche_center": {
+      "id": "IPAC",
+      "name": "Idaho Panhandle Avalanche Center",
+      "url": "http://www.idahopanhandleavalanche.org/",
+      "city": "Sandpoint",
+      "state": "ID"
+    },
+    "forecast_avalanche_problems": [
+      {
+        "id": 25533,
+        "forecast_id": 95829,
+        "avalanche_problem_id": 4,
+        "rank": 1,
+        "likelihood": "very likely",
+        "discussion": "<p>When the snow last week started, it came in soft and no winds, burying a well-developed surface hoar layer across the forecast zones and at all elevations. Storms earlier this week and then Thursday/Friday left us with an adjusting snowpack on top of this layer.&nbsp; &nbsp;Travelling in the backcountry, expect to see shooting cracks and&nbsp; collapsing on that layer. Give avalanche paths a wide berth if you are travelling on ridgelines. Wide spaced trees have the same conditions, so if they are over 30 degrees, they are a no go.&nbsp; &nbsp;</p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210204_104051463_601d5125941d2.jpg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210204_104051463_601d5125941d2.jpg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210204_104051463_601d5125941d2.jpg",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210204_104051463_601d5125941d2.jpg"
+          },
+          "type": "image",
+          "caption": "(2/4/2021) Remote trigger on buried surface hoar.  This was triggered  on the opposite side of the ridge, from back in the trees. Give ridges a wide berth. "
+        },
+        "location": [
+          "northwest lower",
+          "northwest middle",
+          "west lower",
+          "west middle",
+          "west upper",
+          "northwest upper",
+          "southwest middle",
+          "southwest upper",
+          "southwest lower",
+          "south lower",
+          "south middle",
+          "south upper",
+          "southeast middle",
+          "southeast lower",
+          "east lower",
+          "northeast upper",
+          "east middle",
+          "east upper",
+          "southeast upper",
+          "northeast middle",
+          "northeast lower",
+          "north lower",
+          "north middle",
+          "north upper"
+        ],
+        "size": [
+          "1",
+          "3"
+        ],
+        "name": "Persistent Slab",
+        "problem_description": "Persistent Slab avalanches are the release of a cohesive layer of snow (a slab) in the middle to upper snowpack, when the bond to an underlying persistent weak layer breaks. Persistent layers include: surface hoar, depth hoar, near-surface facets, or faceted snow. Persistent weak layers can continue to produce avalanches for days, weeks or even months, making them especially dangerous and tricky. As additional snow and wind events build a thicker slab on top of the persistent weak layer, this avalanche problem may develop into a Deep Persistent Slab.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/PersistentSlab.png"
+      },
+      {
+        "id": 25534,
+        "forecast_id": 95829,
+        "avalanche_problem_id": 3,
+        "rank": 2,
+        "likelihood": "likely",
+        "discussion": "<p>The winds have been moderate to strong out of the West - Southwest, but they shifted to North in the night meaning that there is a possibility of finding wind slabs on every aspect. Look for chalky, hollow sounding snow that is pillow like. Expect them on aspects you might not normally find them.&nbsp; The ones on the Northern aspects could be blanketed by a layer of snow since the winds shifted in the night during the storm.&nbsp;&nbsp;</p>",
+        "media": {
+          "url": "",
+          "type": "",
+          "caption": ""
+        },
+        "location": [
+          "northwest upper",
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Wind Slab",
+        "problem_description": "Wind Slab avalanches are the release of a cohesive layer of snow (a slab) formed by the wind. Wind typically transports snow from the upwind sides of terrain features and deposits snow on the downwind side. Wind slabs are often smooth and rounded and sometimes sound hollow, and can range from soft to hard. Wind slabs that form over a persistent weak layer (surface hoar, depth hoar, or near-surface facets) may be termed Persistent Slabs or may develop into Persistent Slabs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/WindSlab.png"
+      },
+      {
+        "id": 25535,
+        "forecast_id": 95829,
+        "avalanche_problem_id": 2,
+        "rank": 3,
+        "likelihood": "likely",
+        "discussion": "<p>Lots of new snow means the potential for storm slabs increases.&nbsp; These can easily step down to the buried surface hoar layer or the top of the ice crust.&nbsp; They can entrain large amounts of debris that piles up deeply, especially in terrain traps.&nbsp; Avoid slopes steeper than 30 degrees.&nbsp;</p>",
+        "media": {
+          "url": "",
+          "type": "",
+          "caption": ""
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle",
+          "north lower",
+          "northeast lower",
+          "east lower",
+          "southeast lower",
+          "south lower",
+          "southwest lower",
+          "west lower",
+          "northwest lower"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Storm Slab",
+        "problem_description": "Storm Slab avalanches are the release of a cohesive layer (a slab) of new snow that breaks within new snow or on the old snow surface. Storm-slabs typically last between a few hours and few days (following snowfall). Storm-slabs that form over a persistent weak layer (surface hoar, depth hoar, or near-surface facets) may be termed Persistent Slabs or may develop into Persistent Slabs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/StormSlab.png"
+      }
+    ],
+    "danger": [
+      {
+        "lower": 4,
+        "upper": 4,
+        "middle": 4,
+        "valid_day": "current"
+      },
+      {
+        "lower": 4,
+        "upper": 4,
+        "middle": 4,
+        "valid_day": "tomorrow"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 138,
+        "name": "Kootenai",
+        "url": "https://www.idahopanhandleavalanche.org/forecasts/#/kootenai",
+        "state": "MT"
+      },
+      {
+        "id": 272,
+        "name": "St. Regis & Silver Valley",
+        "url": "https://www.idahopanhandleavalanche.org/forecasts/#/st.-regis-&-silver-valley",
+        "state": "ID"
+      }
+    ]
+  },
+  "149": {
+    "id": 95775,
+    "published_time": "2021-02-05T15:00:00+00:00",
+    "expires_time": "2021-02-06T15:00:00+00:00",
+    "created_at": "2021-02-05T14:39:37+00:00",
+    "updated_at": "2021-02-05T15:03:18+00:00",
+    "author": "Eric Morgan",
+    "product_type": "forecast",
+    "bottom_line": "<p>New snow came in last night atop of 2 feet from this week sits on top of a buried surface hoar with a solid icecrust bed surface underneath.&nbsp; Wind loaded areas with new wind slabs will be the chief complaint as it adds weight to the weak surface hoar layer.&nbsp;&nbsp;</p>",
+    "hazard_discussion": "<p>In the Selkirk range yesterday we observed some natural avalanches from last weekend, some cracking on convex rollovers, and some occasional whumphing.&nbsp; This was primarily on ridgetop and wind effected areas where slab formation has happened due to wind.&nbsp; There were moderate winds out of the SW with some switching out of the N.&nbsp; With the 5-6 inches of new snow last night accompanied by wind, expect to see more of the same.&nbsp; We have new storm and wind slabs, a persistent buried surface hoar layer, and a smooth bed surface of ice crust on a fairly deep snowpack.&nbsp; Many of the anchors that have been out there are buried under the ice crust which makes more of a smooth avalanche sliding surface across the landscape.&nbsp; Observe the bulls eye information and make decisions according to what you are seeing.&nbsp; As you climb in elevation it changes quickly.&nbsp;&nbsp;</p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+
+    ],
+    "weather_data": {
+      "weather_product_id": 95742
+    },
+    "json_data": null,
+    "avalanche_center": {
+      "id": "IPAC",
+      "name": "Idaho Panhandle Avalanche Center",
+      "url": "http://www.idahopanhandleavalanche.org/",
+      "city": "Sandpoint",
+      "state": "ID"
+    },
+    "forecast_avalanche_problems": [
+      {
+        "id": 25011,
+        "forecast_id": 95775,
+        "avalanche_problem_id": 3,
+        "rank": 1,
+        "likelihood": "likely",
+        "discussion": "<p>New snow overnight with moderate winds poses an increase in avalanche hazard due to increased wind slab formation.&nbsp; Yesterday in the Selkirks we observed some cracking and heard occasional whumphing.&nbsp; With more wind and snow expect to see more of this with possibility of seeing natural avalanches in steep exposed terrain in the upper elevations.&nbsp;&nbsp;</p>",
+        "media": {
+          "url": "",
+          "type": "",
+          "caption": ""
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "northwest upper"
+        ],
+        "size": [
+          "1",
+          "3"
+        ],
+        "name": "Wind Slab",
+        "problem_description": "Wind Slab avalanches are the release of a cohesive layer of snow (a slab) formed by the wind. Wind typically transports snow from the upwind sides of terrain features and deposits snow on the downwind side. Wind slabs are often smooth and rounded and sometimes sound hollow, and can range from soft to hard. Wind slabs that form over a persistent weak layer (surface hoar, depth hoar, or near-surface facets) may be termed Persistent Slabs or may develop into Persistent Slabs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/WindSlab.png"
+      },
+      {
+        "id": 25012,
+        "forecast_id": 95775,
+        "avalanche_problem_id": 4,
+        "rank": 2,
+        "likelihood": "possible",
+        "discussion": "<p>We have a very prominent surface hoar layer that sits atop a very firm ice crust that has been very reactive since last weekend.&nbsp; It isnt going away anytime soon and the new snow will only add to the weight that is put on this week layer.&nbsp; If one was to trigger an avalanche on this layer, things could step down through the ice crust where it is thinner and potential to step down to other persistent weak layers exists.&nbsp;&nbsp;</p>",
+        "media": {
+          "url": "",
+          "type": "",
+          "caption": ""
+        },
+        "location": [
+          "northwest middle",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest upper",
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper"
+        ],
+        "size": [
+          "1",
+          "3"
+        ],
+        "name": "Persistent Slab",
+        "problem_description": "Persistent Slab avalanches are the release of a cohesive layer of snow (a slab) in the middle to upper snowpack, when the bond to an underlying persistent weak layer breaks. Persistent layers include: surface hoar, depth hoar, near-surface facets, or faceted snow. Persistent weak layers can continue to produce avalanches for days, weeks or even months, making them especially dangerous and tricky. As additional snow and wind events build a thicker slab on top of the persistent weak layer, this avalanche problem may develop into a Deep Persistent Slab.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/PersistentSlab.png"
+      },
+      {
+        "id": 25013,
+        "forecast_id": 95775,
+        "avalanche_problem_id": 2,
+        "rank": 3,
+        "likelihood": "possible",
+        "discussion": "<p>We picked up 5\" at the Schweitzer snotel and 6\" at the Bear Mountain, and 4\" at Hidden Lake.&nbsp; This is added to up to 2 feet of recent storm snow in the upper elevations and about a foot in mid elevations at best.&nbsp; Observe the density of the new storm snow as it could be on the heavy side in mid elevations and could be getting some solar effect today with the expected weather.&nbsp;&nbsp;</p>",
+        "media": {
+          "url": "",
+          "type": "",
+          "caption": ""
+        },
+        "location": [
+          "northwest upper",
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest middle",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Storm Slab",
+        "problem_description": "Storm Slab avalanches are the release of a cohesive layer (a slab) of new snow that breaks within new snow or on the old snow surface. Storm-slabs typically last between a few hours and few days (following snowfall). Storm-slabs that form over a persistent weak layer (surface hoar, depth hoar, or near-surface facets) may be termed Persistent Slabs or may develop into Persistent Slabs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/StormSlab.png"
+      }
+    ],
+    "danger": [
+      {
+        "lower": 1,
+        "upper": 3,
+        "middle": 2,
+        "valid_day": "current"
+      },
+      {
+        "lower": 1,
+        "upper": 3,
+        "middle": 2,
+        "valid_day": "tomorrow"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 149,
+        "name": "Selkirks & Cabinets",
+        "url": "https://www.idahopanhandleavalanche.org/forecasts/#/selkirks-&-cabinets",
+        "state": "ID"
+      }
+    ]
+  },
+  "272": {
+    "id": 95829,
+    "published_time": "2021-02-06T14:00:00+00:00",
+    "expires_time": "2021-02-07T14:00:00+00:00",
+    "created_at": "2021-02-06T13:55:53+00:00",
+    "updated_at": "2021-02-06T14:07:32+00:00",
+    "author": "Melissa Hendrickson",
+    "product_type": "forecast",
+    "bottom_line": "<p>An Avalanche warning is in effect.&nbsp; Deadly natural and human avalanches are likely. Heavy, new snow loading and winds on top of an already unstable snow pack and an extensive buried surface hoar layer are a recipe for an avalanche cycle. Avoid traveling on or under slopes steeper than 30 degrees. Pay attention to run-out zones and don't be complacent on large road cuts or powerlines.&nbsp;&nbsp;</p>",
+    "hazard_discussion": null,
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+
+    ],
+    "weather_data": null,
+    "json_data": null,
+    "avalanche_center": {
+      "id": "IPAC",
+      "name": "Idaho Panhandle Avalanche Center",
+      "url": "http://www.idahopanhandleavalanche.org/",
+      "city": "Sandpoint",
+      "state": "ID"
+    },
+    "forecast_avalanche_problems": [
+      {
+        "id": 25533,
+        "forecast_id": 95829,
+        "avalanche_problem_id": 4,
+        "rank": 1,
+        "likelihood": "very likely",
+        "discussion": "<p>When the snow last week started, it came in soft and no winds, burying a well-developed surface hoar layer across the forecast zones and at all elevations. Storms earlier this week and then Thursday/Friday left us with an adjusting snowpack on top of this layer.&nbsp; &nbsp;Travelling in the backcountry, expect to see shooting cracks and&nbsp; collapsing on that layer. Give avalanche paths a wide berth if you are travelling on ridgelines. Wide spaced trees have the same conditions, so if they are over 30 degrees, they are a no go.&nbsp; &nbsp;</p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210204_104051463_601d5125941d2.jpg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210204_104051463_601d5125941d2.jpg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210204_104051463_601d5125941d2.jpg",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210204_104051463_601d5125941d2.jpg"
+          },
+          "type": "image",
+          "caption": "(2/4/2021) Remote trigger on buried surface hoar.  This was triggered  on the opposite side of the ridge, from back in the trees. Give ridges a wide berth. "
+        },
+        "location": [
+          "northwest lower",
+          "northwest middle",
+          "west lower",
+          "west middle",
+          "west upper",
+          "northwest upper",
+          "southwest middle",
+          "southwest upper",
+          "southwest lower",
+          "south lower",
+          "south middle",
+          "south upper",
+          "southeast middle",
+          "southeast lower",
+          "east lower",
+          "northeast upper",
+          "east middle",
+          "east upper",
+          "southeast upper",
+          "northeast middle",
+          "northeast lower",
+          "north lower",
+          "north middle",
+          "north upper"
+        ],
+        "size": [
+          "1",
+          "3"
+        ],
+        "name": "Persistent Slab",
+        "problem_description": "Persistent Slab avalanches are the release of a cohesive layer of snow (a slab) in the middle to upper snowpack, when the bond to an underlying persistent weak layer breaks. Persistent layers include: surface hoar, depth hoar, near-surface facets, or faceted snow. Persistent weak layers can continue to produce avalanches for days, weeks or even months, making them especially dangerous and tricky. As additional snow and wind events build a thicker slab on top of the persistent weak layer, this avalanche problem may develop into a Deep Persistent Slab.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/PersistentSlab.png"
+      },
+      {
+        "id": 25534,
+        "forecast_id": 95829,
+        "avalanche_problem_id": 3,
+        "rank": 2,
+        "likelihood": "likely",
+        "discussion": "<p>The winds have been moderate to strong out of the West - Southwest, but they shifted to North in the night meaning that there is a possibility of finding wind slabs on every aspect. Look for chalky, hollow sounding snow that is pillow like. Expect them on aspects you might not normally find them.&nbsp; The ones on the Northern aspects could be blanketed by a layer of snow since the winds shifted in the night during the storm.&nbsp;&nbsp;</p>",
+        "media": {
+          "url": "",
+          "type": "",
+          "caption": ""
+        },
+        "location": [
+          "northwest upper",
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Wind Slab",
+        "problem_description": "Wind Slab avalanches are the release of a cohesive layer of snow (a slab) formed by the wind. Wind typically transports snow from the upwind sides of terrain features and deposits snow on the downwind side. Wind slabs are often smooth and rounded and sometimes sound hollow, and can range from soft to hard. Wind slabs that form over a persistent weak layer (surface hoar, depth hoar, or near-surface facets) may be termed Persistent Slabs or may develop into Persistent Slabs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/WindSlab.png"
+      },
+      {
+        "id": 25535,
+        "forecast_id": 95829,
+        "avalanche_problem_id": 2,
+        "rank": 3,
+        "likelihood": "likely",
+        "discussion": "<p>Lots of new snow means the potential for storm slabs increases.&nbsp; These can easily step down to the buried surface hoar layer or the top of the ice crust.&nbsp; They can entrain large amounts of debris that piles up deeply, especially in terrain traps.&nbsp; Avoid slopes steeper than 30 degrees.&nbsp;</p>",
+        "media": {
+          "url": "",
+          "type": "",
+          "caption": ""
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle",
+          "north lower",
+          "northeast lower",
+          "east lower",
+          "southeast lower",
+          "south lower",
+          "southwest lower",
+          "west lower",
+          "northwest lower"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Storm Slab",
+        "problem_description": "Storm Slab avalanches are the release of a cohesive layer (a slab) of new snow that breaks within new snow or on the old snow surface. Storm-slabs typically last between a few hours and few days (following snowfall). Storm-slabs that form over a persistent weak layer (surface hoar, depth hoar, or near-surface facets) may be termed Persistent Slabs or may develop into Persistent Slabs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/StormSlab.png"
+      }
+    ],
+    "danger": [
+      {
+        "lower": 4,
+        "upper": 4,
+        "middle": 4,
+        "valid_day": "current"
+      },
+      {
+        "lower": 4,
+        "upper": 4,
+        "middle": 4,
+        "valid_day": "tomorrow"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 138,
+        "name": "Kootenai",
+        "url": "https://www.idahopanhandleavalanche.org/forecasts/#/kootenai",
+        "state": "MT"
+      },
+      {
+        "id": 272,
+        "name": "St. Regis & Silver Valley",
+        "url": "https://www.idahopanhandleavalanche.org/forecasts/#/st.-regis-&-silver-valley",
+        "state": "ID"
+      }
+    ]
+  }
+}
