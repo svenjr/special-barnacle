@@ -2,7 +2,7 @@
 
 ### The Goal
 
-Right now, we want to be able to press a button and go and get the avalanche forecast rose for every station that does it in America that is on the avalanche.org map
+Right now, we want to be able to press a button and go and get the avalanche forecast rose for every station that does it in America that is on the avalanche.org map. Yes, I know they have an API with the map-layer but the data that is there is actually too simplistic. I believe there is better data in that comes from the NAC and we just need to find it. The Washington scraper is a good one to start with because we were able to find the NAC source and look at the JSON data that is much better than what the map layer has from avalanche.org even though it is the same API.
 
 ### TODOs
 **[Project TODO List](project.todo)**
