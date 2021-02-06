@@ -20,8 +20,11 @@ while id_start <= id_stop
   id_start += 1
 end
 
+# Make the subfolder if it doesn't exist
+directory = 'data/washington'
+Dir.mkdir(directory) unless Dir.exists?(directory)
 # Write the data to a file
-filename = 'data/'+ Date.today().to_s + 'NWAC.json'
+filename = directory + '/' + Date.today().to_s + 'NWAC.json'
 File.open(filename,"w") do |f|
   f.write(JSON.pretty_generate(master_store))
 end
