@@ -15,60 +15,53 @@ def write_data(directory:, center_id:, data:)
   end
 end
 
-# For washington (one subset)
-id_list = Array (139..148)
-data = GenericNAC.data_collector(center_id: 'NWAC', zone_id_list: id_list)
-write_data(directory: 'data/washington', center_id: 'NWAC', data: data)
+# Master hash for generic scraping
+master_hash = {
+  'washington': {
+    '1': {
+      'id_list': [139,140,141,142,143,144,145,146,147,148],
+      'center_id': 'NWAC'
+    }
+  },
+  'oregon': {
+    '1': {
+      'id_list': [205, 300],
+      'center_id': 'COAA'
+    },
+    '2': {
+      'id_list': [276],
+      'center_id': 'WAC'
+    }
+  },
+  'idaho': {
+    '1': {
+      'id_list': [293,294,295,296],
+      'center_id': 'SNFAC'
+    },
+    '2': {
+      'id_list': [138,149,272],
+      'center_id': 'IPAC'
+    },
+    '3': {
+      'id_list': [153],
+      'center_id': 'PAC'
+    }
+  }
+}
 
-# OREGON (2 subsets)
-# => COAA
-id_list = [205, 300]
-data = GenericNAC.data_collector(
-  center_id: 'COAA',
-  zone_id_list: id_list
-)
-write_data(directory: 'data/oregon', center_id: 'COAA', data: data)
-
-# => WAC
-data = GenericNAC.data_collector(
-  center_id: 'WAC',
-  zone_id_list: [276]
-)
-write_data(directory: 'data/oregon', center_id: 'WAC', data: data)
-
-# IDAHO (3 subsets)
-# => Sawtooths
-id_list = [293,294,295,296]
-data = GenericNAC.data_collector(
-  center_id: 'SNFAC',
-  zone_id_list: id_list
-)
-write_data(
-  directory: 'data/idaho',
-  center_id: 'SNFAC',
-  data: data
-)
-
-# => Panhandle
-id_list = [138,149,272]
-data = GenericNAC.data_collector(
-  center_id: 'IPAC',
-  zone_id_list: id_list
-)
-write_data(
-  directory: 'data/idaho',
-  center_id: 'IPAC',
-  data: data
-)
-
-# => Payette (PAC)
-id_list = [153]
-data = GenericNAC.data_collector(
-  center_id: 'PAC',
-  zone_id_list: id_list
-)
-write_data(
-  directory: 'data/idaho',
-  center_id: 'PAC',
-  data: data
-)
+# Now we loop through the master hash and
+# trigger the generic scraper
+master_hash.each do |state, zones|
+  directory = "data/#{state}"
+  zones.each do |zone_subset, zone_data|
+    data = GenericNAC.data_collector(
+      center_id: zone_data[:center_id],
+      zone_id_list: zone_data[:id_list]
+    )
+    write_data(
+      directory: directory,
+      center_id: zone_data[:center_id],
+      data: data
+    )
+  end
+end
