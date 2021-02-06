@@ -17,7 +17,7 @@ class GenericNAC
         request = HTTParty.get(url)
         json_format = JSON(request.body)
       rescue
-        p "URL returned bad data"
+        p "URL returned bad data --> #{url}"
         data[id] = {NOTE: 'BAD DATA'}
       else
         data[id] = JSON(request.body)
