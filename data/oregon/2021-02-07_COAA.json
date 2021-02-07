@@ -1,0 +1,89 @@
+{
+  "205": {
+    "id": 95876,
+    "published_time": "2021-02-07T04:42:00+00:00",
+    "expires_time": "2021-02-08T04:30:00+00:00",
+    "created_at": "2021-02-07T04:38:58+00:00",
+    "updated_at": "2021-02-07T04:42:34+00:00",
+    "author": "Gabriel Coler",
+    "product_type": "forecast",
+    "bottom_line": "<p>Areas of Intense blowing snow this afternoon and evening have led to highly variable deposition.&nbsp; In simple terms:&nbsp; Probably much of the wind driven snow sublimated into the atmosphere or landed in flat meadows.&nbsp; Wind Slab avalanches are possible on isolated East facing slopes at and above treeline.</p>",
+    "hazard_discussion": "<p>Wind, Wind, Wind.&nbsp; The snow surface has been affected by the recent winds throughout the terrain, even down into the treeline in places.&nbsp; Riding conditions are pretty variable.&nbsp; &nbsp;There haven't been any reports of recent avalanches.</p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+      {
+        "id": 1,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/PXL_20210206_222319478_601f6f2d9dffd.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/PXL_20210206_222319478_601f6f2d9dffd.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/PXL_20210206_222319478_601f6f2d9dffd.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/PXL_20210206_222319478_601f6f2d9dffd.jpg"
+        },
+        "type": "image",
+        "caption": null
+      }
+    ],
+    "weather_data": {
+      "weather_product_id": 95875
+    },
+    "json_data": null,
+    "avalanche_center": {
+      "id": "COAA",
+      "name": "Central Oregon Avalanche Center",
+      "url": "http://www.coavalanche.org/",
+      "city": "Bend",
+      "state": "OR"
+    },
+    "forecast_avalanche_problems": [
+      {
+        "id": 25964,
+        "forecast_id": 95876,
+        "avalanche_problem_id": 3,
+        "rank": 1,
+        "likelihood": "possible",
+        "discussion": "<p>Today was another day dominated by the West wind.&nbsp; It's hard to believe there's still snow to move around, but there continued to be Intense blowing snow observed.&nbsp; With such high wind speeds it is very difficult to predict where the wind driven snow is accumulating, and if it's contributing to an avalanche problem.&nbsp; It's wise to do a bit of investigation before committing to steep East facing slopes.</p>",
+        "media": {
+          "url": "",
+          "type": "",
+          "caption": ""
+        },
+        "location": [
+          "northeast middle",
+          "northeast upper",
+          "east upper",
+          "east middle",
+          "southeast middle",
+          "southeast upper"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Wind Slab",
+        "problem_description": "Wind Slab avalanches are the release of a cohesive layer of snow (a slab) formed by the wind. Wind typically transports snow from the upwind sides of terrain features and deposits snow on the downwind side. Wind slabs are often smooth and rounded and sometimes sound hollow, and can range from soft to hard. Wind slabs that form over a persistent weak layer (surface hoar, depth hoar, or near-surface facets) may be termed Persistent Slabs or may develop into Persistent Slabs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/WindSlab.png"
+      }
+    ],
+    "danger": [
+      {
+        "lower": 1,
+        "upper": 2,
+        "middle": 2,
+        "valid_day": "current"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 205,
+        "name": "Central Cascades",
+        "url": "https://www.coavalanche.org/avalanche-forecast#/central-cascades",
+        "state": "OR"
+      }
+    ]
+  },
+  "300": {
+    "NOTE": "BAD DATA"
+  }
+}

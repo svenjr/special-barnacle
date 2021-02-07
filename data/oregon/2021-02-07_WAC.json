@@ -1,0 +1,84 @@
+{
+  "276": {
+    "id": 95855,
+    "published_time": "2021-02-06T15:00:00+00:00",
+    "expires_time": "2021-02-07T15:00:00+00:00",
+    "created_at": "2021-02-06T14:54:48+00:00",
+    "updated_at": "2021-02-06T14:55:31+00:00",
+    "author": "Victor McNeil",
+    "product_type": "forecast",
+    "bottom_line": "<p>Fresh wind slabs will form today on East facing slopes.&nbsp; Use caution near and above treeline where you may encounter these slabs.&nbsp; Shooting cracks, dune-like formations, large wind pillows and cross-loading are all sure signs of wind loading.&nbsp;&nbsp;</p>",
+    "hazard_discussion": "<p>Join the WAC at Anthony Lakes this weekend for the&nbsp;<a class=\"afp-html-a\" href=\"https://www.eou.edu/outdoor/eastern-oregon-backcountry-festival-2021/\" target=\"_blank\" rel=\"noopener\">9th Annual Eastern Oregon Backcountry Festival</a>.&nbsp; Michael Hatch will be running some free snow safety clinics today and a ski tour into Angel Basin on Sunday.&nbsp; This is a great opportunity to support the WAC, even if you can't attend.&nbsp; We have a virtual fundraiser running now through Sunday night at 8pm, with all the proceeds helping pay for avalanche forecasting and pro observations.&nbsp; You can read more about the festivities&nbsp;<a class=\"afp-html-a\" href=\"https://www.eou.edu/outdoor/eastern-oregon-backcountry-festival-2021/\" target=\"_blank\" rel=\"noopener\">here</a>.&nbsp; &nbsp;&nbsp;<a class=\"afp-html-a\" href=\"https://www.32auctions.com/WAC2021\" target=\"_blank\" rel=\"noopener\">Go to the fundraiser</a>!&nbsp;</p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+
+    ],
+    "weather_data": {
+      "weather_product_id": 95812
+    },
+    "json_data": null,
+    "avalanche_center": {
+      "id": "WAC",
+      "name": "Wallowa Avalanche Center",
+      "url": "http://wallowaavalanchecenter.org/",
+      "city": "La Grande",
+      "state": "OR"
+    },
+    "forecast_avalanche_problems": [
+      {
+        "id": 25685,
+        "forecast_id": 95855,
+        "avalanche_problem_id": 3,
+        "rank": 1,
+        "likelihood": "possible",
+        "discussion": "<p>Winds are forecasted to gust into the mid 30's by this evening, with steady winds at the critical value to promote fresh wind slab development.&nbsp; &nbsp;Take a look at the interface the fresh snow and wind slabs are resting on before committing to steep slopes.&nbsp; Warm temperatures on Monday laid down a melt-freeze crust on some aspects.&nbsp;&nbsp;</p>",
+        "media": {
+          "url": "",
+          "type": "",
+          "caption": ""
+        },
+        "location": [
+          "north upper",
+          "north middle",
+          "northeast middle",
+          "northeast upper",
+          "east upper",
+          "east middle",
+          "southeast upper",
+          "southeast middle"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Wind Slab",
+        "problem_description": "Wind Slab avalanches are the release of a cohesive layer of snow (a slab) formed by the wind. Wind typically transports snow from the upwind sides of terrain features and deposits snow on the downwind side. Wind slabs are often smooth and rounded and sometimes sound hollow, and can range from soft to hard. Wind slabs that form over a persistent weak layer (surface hoar, depth hoar, or near-surface facets) may be termed Persistent Slabs or may develop into Persistent Slabs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/WindSlab.png"
+      }
+    ],
+    "danger": [
+      {
+        "lower": 2,
+        "upper": 3,
+        "middle": 2,
+        "valid_day": "current"
+      },
+      {
+        "lower": 2,
+        "upper": 3,
+        "middle": 2,
+        "valid_day": "tomorrow"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 276,
+        "name": "Southern Wallowas",
+        "url": "https://www.wallowaavalanchecenter.org/forecasts/#/southern-wallowas",
+        "state": "OR"
+      }
+    ]
+  }
+}
