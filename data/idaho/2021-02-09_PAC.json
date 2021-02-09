@@ -1,0 +1,52 @@
+{
+  "153": {
+    "id": 95925,
+    "published_time": "2021-02-08T13:01:00+00:00",
+    "expires_time": "2021-02-09T13:00:00+00:00",
+    "created_at": "2021-02-07T15:01:17+00:00",
+    "updated_at": "2021-02-07T15:02:16+00:00",
+    "author": "George Halcom",
+    "product_type": "summary",
+    "bottom_line": "<p class=\"afp-html-p\">Strong winds along with new snow will make Natural Avalanches possible on wind loaded terrain, and triggering a persistent slab or recently formed wind slab is possible. 3 <strong>human triggered avalanches were reported on very weak and sensitive, well preserved large buried surface hoar (persistent weak layers) in the Lick Creek Area on Wednesday, Thursday, and even on Friday.</strong></p>\n<p class=\"afp-html-p\">Be cautious in wind loaded as well as wind protected areas, avoid large exposed or sustained slopes steeper than 30 degrees, especially wind protected steep terrain where weak layers are best preserved. Cautious route finding, Careful snowpack evaluation, and safe travel protocols like exposing only one person at a time is essential.</p>",
+    "hazard_discussion": "<p>There are multiple buried weak layers and crust/facet combinations in the upper portion of our snowpack right now. The addition of new and windblown snow on these layers is providing ample reasons to be cautious. &nbsp; Preserved weak layers are hiding in protected areas...Today and tonight winds and soft snow will load leeward slopes...natural avalanches are going to become increasingly possible as well as human triggered avalanches through today and into tomorrow.&nbsp;</p>\n<p>If you see or trigger avalanche activity, please take the time to snap a picture and note the approximate elevation and aspect, you can submit an observation on our website. Getting your info helps forecasters and other users get a better picture of the conditions throughout our mountains. If you have trouble using our observations page, email us at: forecast@payetteavalanche.org.</p>\n<p>*Also, Please be mindful of other users, and where you are at. There are closures for motorized travel in and around the local ski areas, Granite Mtn, and other areas throughout our region.</p>\n<p>***Check out the Winter Travel Map to find out where you can shred on your sled or moto.</p>\n<p>&nbsp;</p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+      {
+        "id": 1,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_6967_601e9508cab7b.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_6967_601e9508cab7b.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_6967_601e9508cab7b.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_6967_601e9508cab7b.jpg"
+        },
+        "type": "image",
+        "caption": "(2/5/2021) R4D3 remote triggered NW aspect on buried surface hoar"
+      }
+    ],
+    "weather_data": null,
+    "json_data": null,
+    "avalanche_center": {
+      "id": "PAC",
+      "name": "Payette Avalanche Center",
+      "url": "https://payetteavalanche.org/",
+      "city": null,
+      "state": "ID"
+    },
+    "forecast_avalanche_problems": [
+
+    ],
+    "danger": [
+
+    ],
+    "forecast_zone": [
+      {
+        "id": 153,
+        "name": "PAC Advisory Area",
+        "url": "https://payetteavalanche.org/forecasts/#/pac-advisory-area",
+        "state": "ID"
+      }
+    ]
+  }
+}

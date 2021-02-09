@@ -1,0 +1,94 @@
+{
+  "205": {
+    "id": 95588,
+    "published_time": "2021-02-09T04:00:00+00:00",
+    "expires_time": "2021-02-12T05:00:00+00:00",
+    "created_at": "2021-02-03T03:53:21+00:00",
+    "updated_at": "2021-02-09T03:20:11+00:00",
+    "author": "Gabriel Coler",
+    "product_type": "summary",
+    "bottom_line": "<p>The Central Oregon Avalanche Center issues avalanche forecasts for Friday, Saturday, Sunday, and Monday.&nbsp; On Tuesday, Wednesday and Thursday no danger rating is issued.&nbsp; There are often public or profesional observations that are submitted during this time, and that you may find useful.</p>\n<p>Watch for signs of unstable snow such as recent avalanches, cracking in the snow, and audible collapsing.&nbsp; Avoid traveling on or under similar slopes.</p>",
+    "hazard_discussion": null,
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+
+    ],
+    "weather_data": null,
+    "json_data": null,
+    "avalanche_center": {
+      "id": "COAA",
+      "name": "Central Oregon Avalanche Center",
+      "url": "http://www.coavalanche.org/",
+      "city": "Bend",
+      "state": "OR"
+    },
+    "forecast_avalanche_problems": [
+
+    ],
+    "danger": [
+
+    ],
+    "forecast_zone": [
+      {
+        "id": 205,
+        "name": "Central Cascades",
+        "url": "https://www.coavalanche.org/avalanche-forecast#/central-cascades",
+        "state": "OR"
+      },
+      {
+        "id": 300,
+        "name": "Newberry",
+        "url": "https://www.coavalanche.org/avalanche-forecast#/newberry",
+        "state": "OR"
+      }
+    ]
+  },
+  "300": {
+    "id": 95588,
+    "published_time": "2021-02-09T04:00:00+00:00",
+    "expires_time": "2021-02-12T05:00:00+00:00",
+    "created_at": "2021-02-03T03:53:21+00:00",
+    "updated_at": "2021-02-09T03:20:11+00:00",
+    "author": "Gabriel Coler",
+    "product_type": "summary",
+    "bottom_line": "<p>The Central Oregon Avalanche Center issues avalanche forecasts for Friday, Saturday, Sunday, and Monday.&nbsp; On Tuesday, Wednesday and Thursday no danger rating is issued.&nbsp; There are often public or profesional observations that are submitted during this time, and that you may find useful.</p>\n<p>Watch for signs of unstable snow such as recent avalanches, cracking in the snow, and audible collapsing.&nbsp; Avoid traveling on or under similar slopes.</p>",
+    "hazard_discussion": null,
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+
+    ],
+    "weather_data": null,
+    "json_data": null,
+    "avalanche_center": {
+      "id": "COAA",
+      "name": "Central Oregon Avalanche Center",
+      "url": "http://www.coavalanche.org/",
+      "city": "Bend",
+      "state": "OR"
+    },
+    "forecast_avalanche_problems": [
+
+    ],
+    "danger": [
+
+    ],
+    "forecast_zone": [
+      {
+        "id": 205,
+        "name": "Central Cascades",
+        "url": "https://www.coavalanche.org/avalanche-forecast#/central-cascades",
+        "state": "OR"
+      },
+      {
+        "id": 300,
+        "name": "Newberry",
+        "url": "https://www.coavalanche.org/avalanche-forecast#/newberry",
+        "state": "OR"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "276": {
+    "id": 95911,
+    "published_time": "2021-02-07T15:00:00+00:00",
+    "expires_time": "2021-02-11T15:00:00+00:00",
+    "created_at": "2021-02-07T14:13:48+00:00",
+    "updated_at": "2021-02-07T14:27:24+00:00",
+    "author": "Victor McNeil",
+    "product_type": "summary",
+    "bottom_line": "<p><strong>Wind slabs</strong> will be your primary <strong>avalanche problem</strong> to avoid in all of our zones into the early part of the week.&nbsp; Moderate winds, primarily out of the West, with localized strong gusts have built fresh wind slabs on leeward aspects (E, NE, NW) near and above treeline.&nbsp; &nbsp;At lower elevations new storm snow and wind slabs are sitting on a rain crust from <strong>1/12</strong>, with weak sugar snow sitting above it.&nbsp; This is a bad avalanche sandwich, so dig down to see if you can find this weak interface.&nbsp;&nbsp;</p>",
+    "hazard_discussion": "<p>With plenty of snow available for transport, fresh wind slabs will be found near and above the treeline.&nbsp; Wind slabs generally need a couple of days to bond, so avoid wind loaded terrain &gt;30 degrees today.&nbsp; If you observe shooting cracks, visually observe cornices, wind pillows, or dune-like formations in the snow, you're looking at wind transported or affected snow.&nbsp; A wind slab has the ability to grab you off ridgelines and push you into nasty terrain features.&nbsp; Check out this <a href=\"https://www.facebook.com/mattentzsnow/videos/413447789726175\" target=\"_blank\" rel=\"noopener\">video</a> of Matt Entz (pro snowmobiler) who recently had a near-miss with a windslab in Colorado.&nbsp; Triggering a wind slab could have much greater consequences in the Northern Wallowas, if you influence the weak snow found at the bottom of the snowpack.&nbsp; &nbsp;Also, check out a local observation from the Southern Wallowas <a href=\"https://www.wallowaavalanchecenter.org/public-obs/20210206_south-side-of-cornucopia-peak/\" target=\"_blank\" rel=\"noopener\">here.</a>&nbsp;&nbsp;</p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+      {
+        "id": 1,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Wing%20Ridge%20SPX%201%3A31%3A21_601b5e2034bd8.jpeg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Wing%20Ridge%20SPX%201%3A31%3A21_601b5e2034bd8.jpeg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Wing%20Ridge%20SPX%201%3A31%3A21_601b5e2034bd8.jpeg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Wing%20Ridge%20SPX%201%3A31%3A21_601b5e2034bd8.jpeg"
+        },
+        "type": "image",
+        "caption": null
+      },
+      {
+        "id": 2,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/S%20Wallowa-Towner%202%3A6%3A21_601ff5bc279a1.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/S%20Wallowa-Towner%202%3A6%3A21_601ff5bc279a1.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/S%20Wallowa-Towner%202%3A6%3A21_601ff5bc279a1.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/S%20Wallowa-Towner%202%3A6%3A21_601ff5bc279a1.jpg"
+        },
+        "type": "image",
+        "caption": "Southern Wallowas East Aspect 6,800' on 2/6/21.  The classic portrayal of the Persistent Slab avalanche problem.  Here Towner and company found the 1/12 rain crust, with weak sugar snow above it, and a slab above that.  All that's waiting here is a trigger.  You may not find this rain crust at upper elevations, so do some digging to assess before committing to steep slopes > 30 degrees."
+      }
+    ],
+    "weather_data": {
+      "weather_product_id": 95905
+    },
+    "json_data": null,
+    "avalanche_center": {
+      "id": "WAC",
+      "name": "Wallowa Avalanche Center",
+      "url": "http://wallowaavalanchecenter.org/",
+      "city": "La Grande",
+      "state": "OR"
+    },
+    "forecast_avalanche_problems": [
+
+    ],
+    "danger": [
+
+    ],
+    "forecast_zone": [
+      {
+        "id": 273,
+        "name": "Blues",
+        "url": "https://www.wallowaavalanchecenter.org/forecasts/#/blues",
+        "state": "OR"
+      },
+      {
+        "id": 274,
+        "name": "Elkhorns",
+        "url": "https://www.wallowaavalanchecenter.org/forecasts/#/elkhorns",
+        "state": "OR"
+      },
+      {
+        "id": 275,
+        "name": "Northern Wallowas",
+        "url": "https://www.wallowaavalanchecenter.org/forecasts/#/northern-wallowas",
+        "state": "OR"
+      },
+      {
+        "id": 276,
+        "name": "Southern Wallowas",
+        "url": "https://www.wallowaavalanchecenter.org/forecasts/#/southern-wallowas",
+        "state": "OR"
+      }
+    ]
+  }
+}

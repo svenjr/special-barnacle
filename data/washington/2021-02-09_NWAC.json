@@ -1,0 +1,1805 @@
+{
+  "139": {
+    "id": 96003,
+    "published_time": "2021-02-09T02:07:00+00:00",
+    "expires_time": "2021-02-10T02:00:00+00:00",
+    "created_at": "2021-02-09T01:47:49+00:00",
+    "updated_at": "2021-02-09T02:40:13+00:00",
+    "author": "Dennis D'Amico",
+    "product_type": "forecast",
+    "bottom_line": "<p><span style=\"font-weight: 400;\">We have a low likelihood - high consequence situation where triggering a shallow slab avalanche or cornice has the potential to result in a large and deadly avalanche that breaks down to weaker, deeper snow layers.&nbsp; Play it conservative and avoid travelling on or below large avalanche paths.&nbsp;</span></p>",
+    "hazard_discussion": "<p><strong>Preliminary avalanche incident information Monday February 8</strong><strong>th</strong><strong>, 2021:</strong><span style=\"font-weight: 400;\"> Two snow bike riders were caught and buried by a very large avalanche in the mountains west of Salmon la Sac Sno-Park along Cle Elum Lake. One snow biker was partially buried and able to dig himself out. The other rider is fully buried and hasn&rsquo;t been recovered. Search and rescue operations are ongoing.</span></p>\n<p><span style=\"font-weight: 400;\">The avalanche occurred on a north aspect at 4400 ft in the Knox Creek drainage. This terrain lies in NWAC&rsquo;s East Central forecast zone. At least 8 other large avalanches were observed in the area. The other avalanches likely released within the last day or two. Initial avalanche classification: HS-AV-R3-D3-O.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">---------------------------------------------------------------------------</span></p>\n<p><span style=\"font-weight: 400;\">As we head toward a relatively quieter weather pattern this week, recent snow avalanche problems have faded away but we still have plenty of questions about persistent weak layers about 3 feet below the surface.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Continue to be leery of wind-loaded terrain where you may trigger an avalanche within recent snow.&nbsp; This includes using care near cornices that may have grown large during this past week&rsquo;s stormy weather. </span></p>\n<p><span style=\"font-weight: 400;\">The mid-January crust/facet combo continues to be identified in snowpack tests. &nbsp;Professionals reported two whumpfing collapses on Sunday, a sign that this layer may still be with us as we head into midweek.&nbsp; Over the weekend, we didn't receive any reports of avalanches big or small. Given the uncertainty and the relatively higher reactiveness of these layers across the Sound, practice extra caution over this time.&nbsp; Persistent slabs can break widely around terrain features. Don't try to manage this problem.&nbsp; Give yourself a healthy buffer and stick to lower angled terrain at mid and lower elevations that are not exposed to large avalanche paths.&nbsp;</span></p>\n<p><strong>2020-21 Forecast Schedule</strong><span style=\"font-weight: 400;\">: Avalanche danger ratings will be issued for the Olympics every Friday through Sunday and during mid-week holidays. During the week when the Hurricane Ridge road is closed, forecast information will be updated daily to include expected conditions and relevant travel advice under the No Rating label.</span></p>\n<p><strong>During the ongoing Covid-19 pandemic, continue to follow the latest guidance from local, state, and federal health officials. Avoid unnecessary risks that could impact first responders and stress medical resources.&nbsp; Wear a mask when appropriate, practice social distancing, and consider recreating closer to home.</strong></p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+      {
+        "id": 1,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_06151-scaled_602098045afea.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_06151-scaled_602098045afea.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_06151-scaled_602098045afea.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_06151-scaled_602098045afea.jpg"
+        },
+        "type": "image",
+        "caption": "(2/6/2021) Cornice development was significant this past week at Hurricane Ridge as stormy conditions brought moderate to strong winds to the zone. [Photo: David Fitzgerald]"
+      },
+      {
+        "id": 2,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204_OldPersistentSlab_HurricaneRidge_601c96e8a956d.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204_OldPersistentSlab_HurricaneRidge_601c96e8a956d.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204_OldPersistentSlab_HurricaneRidge_601c96e8a956d.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204_OldPersistentSlab_HurricaneRidge_601c96e8a956d.jpg"
+        },
+        "type": "image",
+        "caption": "(2/4/2021) Persistent slab avalanche that likely failed naturally during a recent storm cycle. Hurricane Ridge Road in the foreground. Photo: Sam Luthy"
+      },
+      {
+        "id": 3,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204_Jan13Crust_SH_601c960b2957c.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204_Jan13Crust_SH_601c960b2957c.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204_Jan13Crust_SH_601c960b2957c.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204_Jan13Crust_SH_601c960b2957c.jpg"
+        },
+        "type": "image",
+        "caption": "(2/4/2021) 1/13 crust with rounding surface hoar layer above. Photo: Sam Luthy"
+      },
+      {
+        "id": 4,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204_Profile_HurricaneRidge_601c960b820be.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204_Profile_HurricaneRidge_601c960b820be.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204_Profile_HurricaneRidge_601c960b820be.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204_Profile_HurricaneRidge_601c960b820be.jpg"
+        },
+        "type": "image",
+        "caption": "Surface hoar layer with several inches above the mid-January crust. Photo: Sam Luthy."
+      },
+      {
+        "id": 5,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204_CrownProfile_601c960bab6ed.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204_CrownProfile_601c960bab6ed.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204_CrownProfile_601c960bab6ed.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204_CrownProfile_601c960bab6ed.jpg"
+        },
+        "type": "image",
+        "caption": "(2/4/2021) Persistent Slab crown profile. Photo: Sam Luthy"
+      }
+    ],
+    "weather_data": null,
+    "json_data": null,
+    "avalanche_center": {
+      "id": "NWAC",
+      "name": "Northwest Avalanche Center",
+      "url": "https://www.nwac.us/",
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "forecast_avalanche_problems": [
+
+    ],
+    "danger": [
+      {
+        "lower": null,
+        "upper": null,
+        "middle": null,
+        "valid_day": "current"
+      },
+      {
+        "lower": null,
+        "upper": null,
+        "middle": null,
+        "valid_day": "tomorrow"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 139,
+        "name": "Olympics",
+        "url": "http://www.nwac.us/avalanche-forecast/#/olympics",
+        "state": "WA"
+      }
+    ]
+  },
+  "140": {
+    "id": 96002,
+    "published_time": "2021-02-09T02:05:00+00:00",
+    "expires_time": "2021-02-10T02:00:00+00:00",
+    "created_at": "2021-02-09T01:31:29+00:00",
+    "updated_at": "2021-02-09T02:59:24+00:00",
+    "author": "Josh Hirshberg",
+    "product_type": "forecast",
+    "bottom_line": "<p>Dangerous conditions continue after significant snowfall and wind added a heavy load this weekend and stressed weak layers of snow. &nbsp;Stay far away from and well out from under wind-loaded, open terrain 35 degrees and steeper. Consider avoiding avalanche terrain at upper elevations where you can trigger very large and destructive avalanches that could break widely across slopes.</p>",
+    "hazard_discussion": "<p><span style=\"font-weight: 400;\"><strong>Preliminary avalanche incident information Monday, February 8th, 2021:</strong> Two snow bike riders were caught and buried by a very large avalanche in the mountains west of Salmon la Sac Sno-Park along Cle Elum Lake. One snow biker was partially buried and able to dig himself out. The other rider is fully buried and hasn&rsquo;t been recovered. Search and rescue operations are ongoing. The avalanche occurred on a north aspect at 4400 ft in the Knox Creek drainage. This terrain lies in NWAC&rsquo;s East Central forecast zone. At least 8 other large avalanches were observed in the area. The other avalanches likely released within the last day or two. Initial avalanche classification: HS-AV-R3-D3-O.&nbsp;&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">----------------------------------------------------------</span></p>\n<p><span style=\"font-weight: 400;\">The peak of natural avalanche activity at Stevens Pass likely occurred Saturday night. Observers got glimpses of slides on Sunday and <a href=\"https://nwac.us/observations/submit/\" target=\"_blank\" rel=\"noopener\">submitted </a>a flurry of avalanches observations. <a href=\"https://nwac.us/public-obs/20210207_lanham-lake/\" target=\"_blank\" rel=\"noopener\">A very large natural D3 avalanche</a> likely ran on the night of the 6th on a NW aspect of Jim Hill into the Lanham Creek drainage in addition to the . There was also a report of a large natural avalanche on a southeast aspect around 5,400ft in upper Nason creek.&nbsp; After avalanche mitigation on Sunday, Stevens Pass Patrol reported triggering widespread and touchy loose dry and soft slab avalanches in the recent snow along with a few slopes still breaking 3-4 feet deep to the mid-January crust.</span></p>\n<p><span style=\"font-weight: 400;\">On Friday the 5th, I observed a very large and widely propagating<a href=\"https://nwac.us/public-obs/20210205_highlands-bowl/\" target=\"_blank\" rel=\"noopener\"> persistent slab avalanche in Highlands Bowl</a> (SE at 5,600ft) outside of the boundary of Stevens Pass resort. Stevens Pass Ski Patrol remotely triggered 2ft deep avalanches while skinning on northeast aspects at 5,800ft and ran on the mid-January crust facet layer. WSDOT triggered large avalanches in both new snow, and older snow early in the morning as well. One was a D3 avalanche (big enough to break trees) and ran on the same crust.&nbsp;</span></p>\n<p><strong><em>During the ongoing Covid-19 pandemic, continue to follow the latest guidance from local, state, and federal health officials. Avoid unnecessary risks that could impact first responders and stress medical resources.&nbsp; Wear a mask when appropriate, practice social distancing, and consider recreating closer to home.</em></strong></p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+      {
+        "id": 1,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9075_601cc1a6f3fdc.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9075_601cc1a6f3fdc.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9075_601cc1a6f3fdc.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9075_601cc1a6f3fdc.jpg"
+        },
+        "type": "image",
+        "caption": "(2/3/2021) This crack came from a whumph we heard while stepping on a thick wind pillow. It fractured on the slick 1/13 crust, about 1.5ft deep."
+      },
+      {
+        "id": 2,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9093%20%282%29_601cc193ea0ca.PNG",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9093%20%282%29_601cc193ea0ca.PNG",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9093%20%282%29_601cc193ea0ca.PNG",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9093%20%282%29_601cc193ea0ca.PNG"
+        },
+        "type": "image",
+        "caption": "(2/3/2021) Clean, easy tilt test results below a recent crust. South aspect at 5,000ft on Lichtenberg."
+      },
+      {
+        "id": 3,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9063_601cc1bda2aae.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9063_601cc1bda2aae.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9063_601cc1bda2aae.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9063_601cc1bda2aae.jpg"
+        },
+        "type": "image",
+        "caption": "(2/3/2021) Small rounded facets on a 2 and 3mm grid, found down 15\" on south aspect at 5,000ft on Lichtenberg. Test results indicated sudden, clean failures, and the ability for propagation."
+      },
+      {
+        "id": 4,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/68B3E385-52E5-47C8-A4F0-AF4EFB97CCB7_601c4676dc5e8.jpeg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/68B3E385-52E5-47C8-A4F0-AF4EFB97CCB7_601c4676dc5e8.jpeg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/68B3E385-52E5-47C8-A4F0-AF4EFB97CCB7_601c4676dc5e8.jpeg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/68B3E385-52E5-47C8-A4F0-AF4EFB97CCB7_601c4676dc5e8.jpeg"
+        },
+        "type": "image",
+        "caption": "(2/3/2021) A person touring along the ridgeline from Artist Point to Huntoon Point remotely triggered a cornice that fell onto the slope below triggering this large avalanche.  The avalanche occurred on a NE aspect at 5000ft and failed about 1 meter deep on the 1/24 interface."
+      },
+      {
+        "id": 5,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Snapseed%20%286%29_60185598971ba.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Snapseed%20%286%29_60185598971ba.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Snapseed%20%286%29_60185598971ba.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Snapseed%20%286%29_60185598971ba.jpg"
+        },
+        "type": "image",
+        "caption": "I travelled to the Lanham Lake area on Sunday. This pit profile photo is representative of many hasty pits dug in the area. The uppermost crust from Jan 24 had a thin layer of facets above it in some areas. Where those facets were present failures occurred easily on that layer.  Photo: Irene Henninger"
+      },
+      {
+        "id": 6,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/image000002%20%284%29_600ca9ad82ae0.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/image000002%20%284%29_600ca9ad82ae0.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/image000002%20%284%29_600ca9ad82ae0.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/image000002%20%284%29_600ca9ad82ae0.jpg"
+        },
+        "type": "image",
+        "caption": "Long shooting cracks are indicators of unstable snow surfaces, which may avalanche if the slope is steep enough. "
+      }
+    ],
+    "weather_data": null,
+    "json_data": null,
+    "avalanche_center": {
+      "id": "NWAC",
+      "name": "Northwest Avalanche Center",
+      "url": "https://www.nwac.us/",
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "forecast_avalanche_problems": [
+      {
+        "id": 26811,
+        "forecast_id": 96002,
+        "avalanche_problem_id": 3,
+        "rank": 1,
+        "likelihood": "likely",
+        "discussion": "<p>Watch for wind-stiffened snow, drifting, and actively blowing snow. Avoid leeward slopes where westerly wind has deposited thick slabs over the past 5 days. Avalanches will be bigger and easier to trigger above treeline. Any slide could break into older weak layers of snow causing a very large and destructive deep persistent slab avalanche. Use caution near cornices and the edge of ridgelines. You may be able to trigger wind features and cornices very easily.&nbsp; You can use small, inconsequential slopes to check if the storm snow slides or cracks easily. In wind-sheltered terrain, you could trigger small loose dry avalanches on slopes near 40 degrees.</p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG954456_6021c17d1b65d.jpg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG954456_6021c17d1b65d.jpg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG954456_6021c17d1b65d.jpg",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG954456_6021c17d1b65d.jpg"
+          },
+          "type": "image",
+          "caption": "(2/8/2021) Cornices and wind drifting on Mt. Snoqualmie in the neighboring Snoqualmie Pass zone on Monday."
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle"
+        ],
+        "size": [
+          "2",
+          "2"
+        ],
+        "name": "Wind Slab",
+        "problem_description": "Wind Slab avalanches are the release of a cohesive layer of snow (a slab) formed by the wind. Wind typically transports snow from the upwind sides of terrain features and deposits snow on the downwind side. Wind slabs are often smooth and rounded and sometimes sound hollow, and can range from soft to hard. Wind slabs that form over a persistent weak layer (surface hoar, depth hoar, or near-surface facets) may be termed Persistent Slabs or may develop into Persistent Slabs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/WindSlab.png"
+      },
+      {
+        "id": 26812,
+        "forecast_id": 96002,
+        "avalanche_problem_id": 5,
+        "rank": 2,
+        "likelihood": "possible",
+        "discussion": "<p>Deep persistent slab avalanches are difficult to manage and can catch even experienced travelers by surprise. The best way to stay safe is to avoid large, open slopes 35 degrees and steeper especially where wind loading has occurred. Put a large buffer of terrain between where you travel and all avalanche paths. Make sure to regroup and stop only in truly safe terrain, well away from and out from under steeper slopes. You may be able to trigger these avalanches from a long distance away. While these avalanches may be less likely below treeline, there's uncertainty and the snowpack structure can be found in open terrain above 4,000ft. These avalanches give little warning before releasing. To be safe, approach any slope steeper than 35 degrees with extreme caution. When in doubt, avoid avalanche terrain.</p>\n<p>&nbsp;A widespread cycle of slab avalanches ran on persistent weak layers from Friday through Sunday. Observers confirmed avalanches that broke widely and were remotely triggered on this layer,<a href=\"https://nwac.us/public-obs/20210207_jim-hill/\" target=\"_blank\" rel=\"noopener\"> including an avalanche burial, resulting in no injuries on Jim Hill</a>. About 3-4 feet below the surface, you can find a softer layer of weak faceted snow above or around a crust that formed in mid-January. Sudden and propagating snowpack tests on this layer can indicate the potential for an avalanche.</p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/6600_Ridge_ENE_20210208_6021f91448cbf.JPG",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/6600_Ridge_ENE_20210208_6021f91448cbf.JPG",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/6600_Ridge_ENE_20210208_6021f91448cbf.JPG",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/6600_Ridge_ENE_20210208_6021f91448cbf.JPG"
+          },
+          "type": "image",
+          "caption": "(2/8/2021) A very large (D3) natural avalanche likely ran between Feb 6-7th on Sixtysix Hundred ridge in the Icicle drainage in the neighboring East Central zone. 6,600ft, ENE. Photo: Matt Primomo"
+        },
+        "location": [
+          "west lower",
+          "southwest lower",
+          "east lower",
+          "northeast lower",
+          "north lower",
+          "northwest lower",
+          "northwest middle",
+          "west middle",
+          "southwest middle",
+          "south middle",
+          "southeast middle",
+          "east middle",
+          "northeast middle",
+          "north middle",
+          "north upper",
+          "northwest upper",
+          "west upper",
+          "southwest upper",
+          "south upper",
+          "southeast upper",
+          "east upper",
+          "northeast upper",
+          "southeast lower",
+          "south lower"
+        ],
+        "size": [
+          "3",
+          "3"
+        ],
+        "name": "Deep Persistent Slab",
+        "problem_description": "Deep Persistent Slab avalanches are the release of a thick cohesive layer of hard snow (a slab), when the bond breaks between the slab and an underlying persistent weak layer deep in the snowpack. The most common persistent weak layers involved in deep, persistent slabs are depth hoar or facets surrounding a deeply buried crust. Deep Persistent Slabs are typically hard to trigger, are very destructive and dangerous due to the large mass of snow involved, and can persist for months once developed. They are often triggered from areas where the snow is shallow and weak, and are particularly difficult to forecast for and manage.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/DeepPersistentSlab.png"
+      }
+    ],
+    "danger": [
+      {
+        "lower": 2,
+        "upper": 3,
+        "middle": 3,
+        "valid_day": "current"
+      },
+      {
+        "lower": 2,
+        "upper": 3,
+        "middle": 3,
+        "valid_day": "tomorrow"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 140,
+        "name": "Stevens Pass",
+        "url": "http://www.nwac.us/avalanche-forecast/#/stevens-pass",
+        "state": "WA"
+      }
+    ]
+  },
+  "141": {
+    "id": 96000,
+    "published_time": "2021-02-09T03:07:00+00:00",
+    "expires_time": "2021-02-10T02:00:00+00:00",
+    "created_at": "2021-02-09T01:04:19+00:00",
+    "updated_at": "2021-02-09T03:07:32+00:00",
+    "author": "Andy Harrington",
+    "product_type": "forecast",
+    "bottom_line": "<p><span style=\"font-weight: 400;\">We just got a lot of snow in a relatively short period of time. Continue to give the snowpack time to adjust to its recent load by making conservative terrain choices on Tuesday. Weak layers in the snowpack are now buried deeply and are not going away anytime soon.</span></p>",
+    "hazard_discussion": "<p><span style=\"font-weight: 400;\"><strong>Preliminary avalanche incident information Monday February 8th, 2021:</strong> Two snow bike riders were caught and buried by a very large avalanche in the mountains west of Salmon la Sac Sno-Park along Cle Elum Lake. One snow biker was partially buried and able to dig himself out. The other rider is fully buried and hasn&rsquo;t been recovered. Search and rescue operations are ongoing. &nbsp; </span></p>\n<p><span style=\"font-weight: 400;\">The avalanche occurred on a north aspect at 4400 ft in the Knox Creek drainage. This terrain lies in NWAC&rsquo;s East Central forecast zone. At least 8 other large avalanches were observed in the area. The other avalanches likely released within the last day or two. Initial avalanche classification: HS-AV-R3-D3-O.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">--------------------------------------------------------------------</span></p>\n<p><span style=\"font-weight: 400;\">It&rsquo;s deep out there right now at Snoqualmie Pass. Do not ignore the large snow totals and relatively cold weather we are experiencing. The cold weather will not help the snowpack to heal as quickly as you may be used to, and persistent weak layers heal even more slowly than standard storm instabilities. If you choose to travel in the mountains, make conservative terrain choices, being aware of the high consequence slides that are possible on those deeper layers. With so much snow, loose snow can have consequences if they&rsquo;re able to knock you off your feet near small terrain traps, or even if you fall and are unable to get up. Learn more about snow immersion hazard <a href=\"https://deepsnowsafety.org/\" target=\"_blank\" rel=\"noopener\">here</a>.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">A little bit of visibility on Monday gave us the ability to look around the Alpental Valley a bit. Large avalanches were observed to have run on Chair Peak with fresh debris down by Source Lake.&nbsp; On Sunday, Alpental Pro Patrol reported a very active day with slabs as deep as 5 feet being triggered during control work. After receiving reports of a <a href=\"https://nwac.us/public-obs/20210206_easton/\" target=\"_blank\" rel=\"noopener\">full burial</a> on the eastern edge of our zone on Saturday, a large avalanche incident occurred on Sunday at <a href=\"https://nwac.us/public-obs/20210207_jim-hill/\" target=\"_blank\" rel=\"noopener\">Stevens Pass</a>. This should be a free lesson to those traveling at Snoqualmie Pass since the snowpack setup between the two zones is similar right now. Please be safe out there.</span></p>\n<p><span style=\"font-weight: 400;\"><strong><em>During the ongoing Covid-19 pandemic, continue to follow the latest guidance from local, state, and federal health officials. Avoid unnecessary risks that could impact first responders and stress medical resources.&nbsp; Wear a mask when appropriate, practice social distancing, and consider recreating closer to home.</em></strong></span></p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+      {
+        "id": 1,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/_6021fb9b56197.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/_6021fb9b56197.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/_6021fb9b56197.jpg",
+          "video_id": "lzxC2Mk-d_o",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/_6021fb9b56197.jpg"
+        },
+        "type": "video",
+        "caption": "(2/9/2021) Dallas taking some time to illustrate the issues we are dealing with deeper in the snowpack."
+      },
+      {
+        "id": 2,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210208_144929_6021c17d005a2.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210208_144929_6021c17d005a2.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210208_144929_6021c17d005a2.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210208_144929_6021c17d005a2.jpg"
+        },
+        "type": "image",
+        "caption": "(2/8/2021) The black card is the 2/1 crust and is down 120cm. The blue card is the Mid-January crust/facet combo and is down 150cm. (2/8/2021, Mt. Snoqualmie)"
+      },
+      {
+        "id": 3,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG954456_6021c17d1b65d.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG954456_6021c17d1b65d.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG954456_6021c17d1b65d.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG954456_6021c17d1b65d.jpg"
+        },
+        "type": "image",
+        "caption": "(2/8/2021) Some nasty cornices were observed on Mt. Snoqualmie on Monday. One of these failing could be the trigger needed to activate deeper weak layers in the snowpack."
+      },
+      {
+        "id": 4,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210206_102207351_601f491b6daca.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210206_102207351_601f491b6daca.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210206_102207351_601f491b6daca.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210206_102207351_601f491b6daca.jpg"
+        },
+        "type": "image",
+        "caption": "(2/6/2021) Multiple weak layers were confirmed at the upper end of the NTL on Saturday (2/6). These layers are starting to get buried deeply and were reactive in snowpack tests."
+      },
+      {
+        "id": 5,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210206_151326-scaled_602098042bd17.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210206_151326-scaled_602098042bd17.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210206_151326-scaled_602098042bd17.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210206_151326-scaled_602098042bd17.jpg"
+        },
+        "type": "image",
+        "caption": "(2/6/2021) This large to very large avalanche was triggered on the border between the Snoqualmie Pass and East Central zones on Saturday by a snowmobiler. [Photo: James Hale]"
+      },
+      {
+        "id": 6,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_2645_601c9f9cc202b.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_2645_601c9f9cc202b.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_2645_601c9f9cc202b.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_2645_601c9f9cc202b.jpg"
+        },
+        "type": "image",
+        "caption": "(2/4/2021) This thin avalanche failed just above the 2/1 crust layer in the Cave Ridge area of Snoqualmie Pass. Similar natural and human triggered slides were reported by several professionals at Snoqualmie Pass. Photo Renne Shapiro. "
+      },
+      {
+        "id": 7,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4395_601b3924edbda.JPG",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4395_601b3924edbda.JPG",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4395_601b3924edbda.JPG",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4395_601b3924edbda.JPG"
+        },
+        "type": "image",
+        "caption": "(2/3/2021) These 1mm facets were sampled from just above the 1/13 crust. While they show signs of rounding, they remain very weak and failed in several snowpack tests. NE 4800', Keechelus Ridge. "
+      }
+    ],
+    "weather_data": null,
+    "json_data": null,
+    "avalanche_center": {
+      "id": "NWAC",
+      "name": "Northwest Avalanche Center",
+      "url": "https://www.nwac.us/",
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "forecast_avalanche_problems": [
+      {
+        "id": 26819,
+        "forecast_id": 96000,
+        "avalanche_problem_id": 2,
+        "rank": 1,
+        "likelihood": "likely",
+        "discussion": "<p><span style=\"font-weight: 400;\">There is a lot of recent snow in the Snoqualmie Pass zone and it gets deeper as you ascend in elevation. This snow is the result of a series of storms that had different freezing levels, wind speeds, and even precipitation types. The storm parade finished cold, delivering light fluffy snow. This is what you will encounter near the surface, and could drive loose avalanche problems, particularly on steeper terrain features. As you dig deeper, you&rsquo;ll find multiple interstorm layers, density breaks, and slabs to be concerned with. Take a look at which layers are reactive and how deep they are. You can use test slopes, hand pits, or uptrack tests to see if there is slab potential in the uppermost snowpack where you are traveling. You are going to have to dig to look at what layers are under the low-density snow. Avalanches will be more likely to be triggered near rocky terrain like the base of cliffs or gullies, on convex features, or steep slopes that are greater than 35 degrees. </span></p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG954481_6021c17d1d32c.jpg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG954481_6021c17d1d32c.jpg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG954481_6021c17d1d32c.jpg",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG954481_6021c17d1d32c.jpg"
+          },
+          "type": "image",
+          "caption": "(2/8/2021) Both Dry Loose and Storm Slabs were triggered by skiers on Monday at Snoqualmie Pass, sometimes on the same slope. These problems will continue for a few more days."
+        },
+        "location": [
+          "north lower",
+          "northeast lower",
+          "east lower",
+          "southeast lower",
+          "south lower",
+          "southwest lower",
+          "west lower",
+          "northwest lower",
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Storm Slab",
+        "problem_description": "Storm Slab avalanches are the release of a cohesive layer (a slab) of new snow that breaks within new snow or on the old snow surface. Storm-slabs typically last between a few hours and few days (following snowfall). Storm-slabs that form over a persistent weak layer (surface hoar, depth hoar, or near-surface facets) may be termed Persistent Slabs or may develop into Persistent Slabs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/StormSlab.png"
+      },
+      {
+        "id": 26820,
+        "forecast_id": 96000,
+        "avalanche_problem_id": 5,
+        "rank": 2,
+        "likelihood": "possible",
+        "discussion": "<p><span style=\"font-weight: 400;\">Observations from NWAC forecasters on Monday found the 2/1 interface to be 120cm deep and the Mid-January crust/facet combo to be 150-160cm deep. These weak layers are now deep enough in the snowpack that you will not be able to see red-flag signs of instability as you travel to indicate danger. Just because you are not seeing obvious signs of instability does not mean that you have chosen the appropriate terrain. The most likely places for these slides to run are large open terrain features over 30 degrees, with a higher likelihood as you ascend in elevation. We have some uncertainty about what it would take to trigger one of these slides at this point, but it could be a step down from a Storm Slab avalanche, a snowmobile, cornice, or even just a shallower spot in the snowpack. What we do know is that if you trigger one of these avalanches and are caught, it would most likely be unsurvivable.</span></p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/-8746806290956208817_60209b16f123d.jpg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/-8746806290956208817_60209b16f123d.jpg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/-8746806290956208817_60209b16f123d.jpg",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/-8746806290956208817_60209b16f123d.jpg"
+          },
+          "type": "image",
+          "caption": "(2/7/2021) This slab was triggered during control work by Alpental Patrol. Although it is in wind-loaded terrain, it failed on the Mid-January facet/crust combo and was up to 5 feet deep. "
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle",
+          "north lower",
+          "northeast lower",
+          "east lower",
+          "southeast lower",
+          "south lower",
+          "southwest lower",
+          "west lower",
+          "northwest lower"
+        ],
+        "size": [
+          "3",
+          "3"
+        ],
+        "name": "Deep Persistent Slab",
+        "problem_description": "Deep Persistent Slab avalanches are the release of a thick cohesive layer of hard snow (a slab), when the bond breaks between the slab and an underlying persistent weak layer deep in the snowpack. The most common persistent weak layers involved in deep, persistent slabs are depth hoar or facets surrounding a deeply buried crust. Deep Persistent Slabs are typically hard to trigger, are very destructive and dangerous due to the large mass of snow involved, and can persist for months once developed. They are often triggered from areas where the snow is shallow and weak, and are particularly difficult to forecast for and manage.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/DeepPersistentSlab.png"
+      }
+    ],
+    "danger": [
+      {
+        "lower": 2,
+        "upper": 3,
+        "middle": 3,
+        "valid_day": "current"
+      },
+      {
+        "lower": 2,
+        "upper": 3,
+        "middle": 3,
+        "valid_day": "tomorrow"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 141,
+        "name": "Snoqualmie Pass",
+        "url": "http://www.nwac.us/avalanche-forecast/#/snoqualmie-pass",
+        "state": "WA"
+      }
+    ]
+  },
+  "142": {
+    "id": 95997,
+    "published_time": "2021-02-09T02:00:00+00:00",
+    "expires_time": "2021-02-10T02:00:00+00:00",
+    "created_at": "2021-02-09T01:00:54+00:00",
+    "updated_at": "2021-02-09T03:34:25+00:00",
+    "author": "Irene Henninger",
+    "product_type": "forecast",
+    "bottom_line": "<p><span style=\"font-weight: 400;\">New snow layers up to 2 feet deep may avalanche with a human trigger. Additionally, you could trigger an avalanche on weak layers buried several feet deep. Conservative terrain selection remains critical, so stay off open slopes steeper than 35 degrees at this time.</span></p>",
+    "hazard_discussion": "<p class=\"afp-html-p\"><strong>Preliminary avalanche incident information Monday February 8</strong><strong>th</strong><strong>, 2021:</strong>&nbsp;Two snow bike riders were caught and buried by a very large avalanche in the mountains west of Salmon la Sac Sno-Park along Cle Elum Lake. One snow biker was partially buried and able to dig himself out. The other rider is fully buried and hasn&rsquo;t been recovered. Search and rescue operations are ongoing.</p>\n<p class=\"afp-html-p\">The avalanche occurred on a north aspect at 4400 ft in the Knox Creek drainage. This terrain lies in NWAC&rsquo;s East Central forecast zone. At least 8 other large avalanches were observed in the area. The other avalanches likely released within the last day or two. Initial avalanche classification: HS-AV-R3-D3-O.&nbsp;</p>\n<p class=\"afp-html-p\">----------------------------------------------------------------</p>\n<p><span style=\"font-weight: 400;\">Many natural and human triggered avalanches occurred over the last two weeks, including involvements with both skiers and snowmobilers.&nbsp; Check out one of the reports of a snowmobile involvement <a href=\"https://nwac.us/public-obs/20210205_mount-baket-nra/\" target=\"_blank\" rel=\"noopener\">here</a>.&nbsp; A skier triggered avalanche in the Steven's Pass area on Sunday tells quite a story. Have a read <a href=\"https://nwac.us/public-obs/20210207_jim-hill/\" target=\"_blank\" rel=\"noopener\">here</a>.&nbsp; </span><span style=\"font-weight: 400;\">Avalanche problems related to new snow and wind are concerning enough, but the lingering deep slab instability poses a risk with even more uncertainty and higher consequences. A conservative mindset is crucial to getting through this period unscathed. Right now finding those lower angle areas or traveling through tighter trees are your ticket to surviving this rough period with the snowpack.&nbsp;&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">The instabilities began after the atmospheric river event which ended with a stout 1/13 crust. Only a few inches of snow followed over the next 11 days, which weakened as it sat exposed to the sky. Snow began to fall Jan 24, and since then we have continued to see avalanches occurring on that Jan 24 interface, failing deeper as snow continued to accumulate on top. An extensive avalanche cycle occurred Jan 30- Feb 2 after a more intense period of snowfall (8.5in of water/4ft of snow at Heather Meadows), and several close calls occurred in the following days as backcountry users got out again.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">These conditions are not identical, but have similarities with other snowpacks nationwide, where avalanche fatalities have sadly trickled in over the last week (15 in total). Heading out onto a steep slope for any reason is not worth the consequence of not making it home that night. Have this in mind while you travel in the backcountry during this period of unstable snowpack conditions.</span></p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+      {
+        "id": 1,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/FB78FB82-C114-4646-B667-C1C928497ACB-scaled_601c460546e5f.jpeg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/FB78FB82-C114-4646-B667-C1C928497ACB-scaled_601c460546e5f.jpeg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/FB78FB82-C114-4646-B667-C1C928497ACB-scaled_601c460546e5f.jpeg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/FB78FB82-C114-4646-B667-C1C928497ACB-scaled_601c460546e5f.jpeg"
+        },
+        "type": "image",
+        "caption": "(2/3/2021) Crowns of large natural avalanches on Video Peak/Happy Bunny Butte on northerly aspects between 5200-5400ft. The avalanches occurred during the 01/30-02/02 storm and appear to have failed on the 1/24 interface."
+      },
+      {
+        "id": 2,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG-1026_601b542499848.JPG",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG-1026_601b542499848.JPG",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG-1026_601b542499848.JPG",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG-1026_601b542499848.JPG"
+        },
+        "type": "image",
+        "caption": "(2/3/2021) A view of the crown and separated slab of a snowmobile triggered avalanche in the Excelsior area of Canyon Creek Wednesday. The avalanche occurred on a NW aspect at 5400ft and failed about 1 meter deep on the 1/24 interface which presented as a 10cm thick layer of faceted snow above the AR crust in this location."
+      },
+      {
+        "id": 3,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/imagejpeg-2_601db369e333a.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/imagejpeg-2_601db369e333a.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/imagejpeg-2_601db369e333a.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/imagejpeg-2_601db369e333a.jpg"
+        },
+        "type": "image",
+        "caption": "(2/5/2021) Natural avalanche (D1.5)  near Austin Pass on a NW aspect at 4600ft. The avalanche failed 6-8in deep on the old/new snow interface buried Wednesday (02/04). The avalanche was small but propagated widely across the feature. Photo: Pete Durr, USFS Backcountry Ranger"
+      },
+      {
+        "id": 4,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4401_601b3928ae62d.JPG",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4401_601b3928ae62d.JPG",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4401_601b3928ae62d.JPG",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4401_601b3928ae62d.JPG"
+        },
+        "type": "image",
+        "caption": "(2/3/2021) Small drifts formed in the recent snow on a variety of aspects. Avoid drifts on open slopes like this in areas steeper than 35 degrees, as you could trigger a smaller avalanche, which may step down to a deeper one.  "
+      }
+    ],
+    "weather_data": null,
+    "json_data": null,
+    "avalanche_center": {
+      "id": "NWAC",
+      "name": "Northwest Avalanche Center",
+      "url": "https://www.nwac.us/",
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "forecast_avalanche_problems": [
+      {
+        "id": 26821,
+        "forecast_id": 95997,
+        "avalanche_problem_id": 2,
+        "rank": 1,
+        "likelihood": "likely",
+        "discussion": "<p><span style=\"font-weight: 400;\">You could trigger avalanches in the new snow that fell over the weekend, which amounted to around 2 feet. Depths of avalanches may range from about 6 inches to 2 feet deep. </span><span style=\"font-weight: 400;\">These avalanches could bury, injure, or kill a person, or could even trigger deeper weak layers as they run downslope resulting in very large avalanches.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Wind may have affected the snow at higher elevations, developing into firmer slabs. Search</span><span style=\"font-weight: 400;\"> for changes in the snow, noting when it becomes stiffer and more pillow-like in appearance to alert you to the presence of wind slabs. In areas where the wind hasn&rsquo;t affected the snow surface, storm slabs or loose dry avalanches may release on slopes steeper than 35 degrees. Until more time has passed avoid slopes steeper than 35 degrees.</span></p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210205_111145-scaled_601f03e648981.jpg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210205_111145-scaled_601f03e648981.jpg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210205_111145-scaled_601f03e648981.jpg",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210205_111145-scaled_601f03e648981.jpg"
+          },
+          "type": "image",
+          "caption": "(2/5/2021) Snowmobile triggered avalanche in the Mt. Baker NRA at the toe of the Easton Glacier on southerly aspect near 5000ft. The snowmobiler was caught by the avalanche and carried a short distance with their snowmobile partially burried.  The avalanche looks to have failed 6-12in deep on the 2/4 interface with an impressive crown breaking several hundred feet wide."
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle",
+          "north lower",
+          "northeast lower",
+          "east lower",
+          "southeast lower",
+          "south lower",
+          "southwest lower",
+          "west lower",
+          "northwest lower"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Storm Slab",
+        "problem_description": "Storm Slab avalanches are the release of a cohesive layer (a slab) of new snow that breaks within new snow or on the old snow surface. Storm-slabs typically last between a few hours and few days (following snowfall). Storm-slabs that form over a persistent weak layer (surface hoar, depth hoar, or near-surface facets) may be termed Persistent Slabs or may develop into Persistent Slabs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/StormSlab.png"
+      },
+      {
+        "id": 26822,
+        "forecast_id": 95997,
+        "avalanche_problem_id": 5,
+        "rank": 2,
+        "likelihood": "possible",
+        "discussion": "<p><span style=\"font-weight: 400;\">It is possible that you could trigger a deep persistent slab avalanche on steep slopes above 4500ft. There are many reports of avalanches failing on this layer in the last two weeks.&nbsp; It is buried around 3 to 5+ feet deep at this time. The amount of snow on top of the weak layer is making it more difficult to trigger, however, if someone were to find a shallower spot and trigger an avalanche, results would be catastrophic and probably unsurvivable. A snowshoer might get away without triggering an avalanche on this layer, but there is no doubt that a snowmobile could trigger one.&nbsp; It is unknown how widespread this persistent weak layer is, as it has been found on some slopes and not others.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">You will not find obvious signs of instability like you might with other problems like wind slab avalanches. You need to dig down to the Jan 13 crust and make note of the layer above it, observing the state of any persistent grains and how readily those layers just above the crust fail. I wouldn&rsquo;t place all my bets on one pit for this sort of problem, either. The game is too dangerous to play the odds on.</span><span style=\"font-weight: 400;\">&nbsp;Broad open slopes and large features in areas steeper than 35 degrees is where the highest likelihood of finding this problem is, so avoid those slopes at this time.</span></p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/68B3E385-52E5-47C8-A4F0-AF4EFB97CCB7_601c4676dc5e8.jpeg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/68B3E385-52E5-47C8-A4F0-AF4EFB97CCB7_601c4676dc5e8.jpeg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/68B3E385-52E5-47C8-A4F0-AF4EFB97CCB7_601c4676dc5e8.jpeg",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/68B3E385-52E5-47C8-A4F0-AF4EFB97CCB7_601c4676dc5e8.jpeg"
+          },
+          "type": "image",
+          "caption": "(2/3/2021) A person touring along the ridgeline from Artist Point to Huntoon Point remotely triggered a cornice that fell onto the slope below triggering this large avalanche.  The avalanche occurred on a NE aspect at 5000ft and failed about 1 meter deep on the 1/24 interface."
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle"
+        ],
+        "size": [
+          "2",
+          "3"
+        ],
+        "name": "Deep Persistent Slab",
+        "problem_description": "Deep Persistent Slab avalanches are the release of a thick cohesive layer of hard snow (a slab), when the bond breaks between the slab and an underlying persistent weak layer deep in the snowpack. The most common persistent weak layers involved in deep, persistent slabs are depth hoar or facets surrounding a deeply buried crust. Deep Persistent Slabs are typically hard to trigger, are very destructive and dangerous due to the large mass of snow involved, and can persist for months once developed. They are often triggered from areas where the snow is shallow and weak, and are particularly difficult to forecast for and manage.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/DeepPersistentSlab.png"
+      }
+    ],
+    "danger": [
+      {
+        "lower": 2,
+        "upper": 3,
+        "middle": 3,
+        "valid_day": "current"
+      },
+      {
+        "lower": 2,
+        "upper": 3,
+        "middle": 3,
+        "valid_day": "tomorrow"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 142,
+        "name": "West Slopes North",
+        "url": "http://www.nwac.us/avalanche-forecast/#/west-slopes-north",
+        "state": "WA"
+      }
+    ]
+  },
+  "143": {
+    "id": 95998,
+    "published_time": "2021-02-09T02:00:00+00:00",
+    "expires_time": "2021-02-10T02:00:00+00:00",
+    "created_at": "2021-02-09T01:00:57+00:00",
+    "updated_at": "2021-02-09T02:47:56+00:00",
+    "author": "Irene Henninger",
+    "product_type": "forecast",
+    "bottom_line": "<p><span style=\"font-weight: 400;\">New snow layers up to 2 feet deep may avalanche with a human trigger. Additionally, you could trigger an avalanche on weak layers buried several feet deep. Conservative terrain selection remains critical, so stay off open slopes steeper than 35 degrees at this time.</span></p>",
+    "hazard_discussion": "<p class=\"afp-html-p\"><strong>Preliminary avalanche incident information Monday February 8</strong><strong>th</strong><strong>, 2021:</strong>&nbsp;Two snow bike riders were caught and buried by a very large avalanche in the mountains west of Salmon la Sac Sno-Park along Cle Elum Lake. One snow biker was partially buried and able to dig himself out. The other rider is fully buried and hasn&rsquo;t been recovered. Search and rescue operations are ongoing.</p>\n<p class=\"afp-html-p\">The avalanche occurred on a north aspect at 4400 ft in the Knox Creek drainage. This terrain lies in NWAC&rsquo;s East Central forecast zone. At least 8 other large avalanches were observed in the area. The other avalanches likely released within the last day or two. Initial avalanche classification: HS-AV-R3-D3-O.&nbsp;</p>\n<p class=\"afp-html-p\">----------------------------------------------------------------</p>\n<p><span style=\"font-weight: 400;\">Many natural and human triggered avalanches occurred in neighboring zones over the last two weeks, including involvements with both skiers and snowmobilers. </span><span style=\"font-weight: 400;\">Avalanche problems related to new snow and wind are concerning enough, but the lingering deep slab instability poses a risk with even more uncertainty and higher consequences. A conservative mindset is crucial to getting through this period unscathed. Right now finding those lower angle areas or traveling through tighter trees are your ticket to surviving this rough period with the snowpack.&nbsp;&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">The instabilities began after the atmospheric river event which ended with a stout 1/13 crust. Only a few inches of snow followed over the next 11 days, which weakened as it sat exposed to the sky, in addition to a surface hoar layer forming on top. Snow began to fall Jan 24, and since then we have continued to see avalanches occurring on that Jan 24 interface, failing deeper as snow continued to accumulate on top. Neighboring areas reported an extensive avalanche cycle Jan 30- Feb 2 after a more intense period of snowfall, and several close calls occurred in the following days as backcountry users got out again.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">These conditions are not identical, but have similarities with other snowpacks nationwide, where avalanche fatalities have sadly trickled in over the last week (15 in total). Heading out onto a steep slope for any reason is not worth the consequence of not making it home that night. Have this in mind while you travel in the backcountry during this period of unstable snowpack conditions.</span></p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+      {
+        "id": 1,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0392_601c9f984bc0c.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0392_601c9f984bc0c.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0392_601c9f984bc0c.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0392_601c9f984bc0c.jpg"
+        },
+        "type": "image",
+        "caption": "(2/5/2021) This avalanche was remotely triggered in backcountry terrain just outside of the Crystal ski area. Similar to other recent slides, it failed on facets just above the 1/13 crust. 60cm deep, 150' wide. 5200' ESE aspect. Photo: Crystal Mt Ski Patrol "
+      },
+      {
+        "id": 2,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/imagejpeg-2_601db369e333a.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/imagejpeg-2_601db369e333a.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/imagejpeg-2_601db369e333a.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/imagejpeg-2_601db369e333a.jpg"
+        },
+        "type": "image",
+        "caption": "(2/5/2021) Natural avalanche (D1.5)  near Austin Pass in the West North zone on a NW aspect at 4600ft. The avalanche failed 6-8in deep on the old/new snow interface buried Wednesday (02/04). The avalanche was small but propagated widely across the feature. Photo: Pete Durr, USFS Backcountry Ranger"
+      },
+      {
+        "id": 3,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG-1024_601b53deba64f.JPG",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG-1024_601b53deba64f.JPG",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG-1024_601b53deba64f.JPG",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG-1024_601b53deba64f.JPG"
+        },
+        "type": "image",
+        "caption": "(2/3/2021) A snowmobile triggered avalanche (D2) in the Excelsior area of Canyon Creek Wednesday. The avalanche occurred on a NW aspect at 5400ft and failed 1 meter deep on the 1/24 interface which presented as a 10cm thick layer of faceted snow above the AR (1/13) crust in this location."
+      },
+      {
+        "id": 4,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4401_601b3928ae62d.JPG",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4401_601b3928ae62d.JPG",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4401_601b3928ae62d.JPG",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4401_601b3928ae62d.JPG"
+        },
+        "type": "image",
+        "caption": "(2/3/2021) Small drifts formed in the recent snow on a variety of aspects. Avoid drifts on open slopes like this in areas steeper than 35 degrees, as you could trigger a smaller avalanche, which may step down to a deeper one.  "
+      }
+    ],
+    "weather_data": null,
+    "json_data": null,
+    "avalanche_center": {
+      "id": "NWAC",
+      "name": "Northwest Avalanche Center",
+      "url": "https://www.nwac.us/",
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "forecast_avalanche_problems": [
+      {
+        "id": 26801,
+        "forecast_id": 95998,
+        "avalanche_problem_id": 2,
+        "rank": 1,
+        "likelihood": "likely",
+        "discussion": "<p><span style=\"font-weight: 400;\">You could trigger avalanches in the new snow that fell over the weekend, which amounted to around 2 feet. Depths of avalanches may range from about 6 inches to 2 feet deep. </span><span style=\"font-weight: 400;\">These avalanches could bury, injure, or kill a person, or could even trigger deeper weak layers as they run downslope resulting in very large avalanches.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Wind may have affected the snow at higher elevations, developing into firmer slabs. Search</span><span style=\"font-weight: 400;\"> for changes in the snow, noting when it becomes stiffer and more pillow-like in appearance to alert you to the presence of wind slabs. In areas where the wind hasn&rsquo;t affected the snow surface, storm slabs or loose dry avalanches may release on slopes steeper than 35 degrees. Until more time has passed avoid slopes steeper than 35 degrees.</span></p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210205_111145-scaled_601f03e648981.jpg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210205_111145-scaled_601f03e648981.jpg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210205_111145-scaled_601f03e648981.jpg",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210205_111145-scaled_601f03e648981.jpg"
+          },
+          "type": "image",
+          "caption": "(2/5/2021) Snowmobile triggered avalanche in the Mt. Baker NRA at the toe of the Easton Glacier on southerly aspect near 5000ft. The snowmobiler was caught by the avalanche and carried a short distance with their snowmobile partially burried.  The avalanche looks to have failed 6-12in deep on the 2/4 interface with an impressive crown breaking several hundred feet wide."
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle",
+          "north lower",
+          "northeast lower",
+          "east lower",
+          "southeast lower",
+          "south lower",
+          "southwest lower",
+          "west lower",
+          "northwest lower"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Storm Slab",
+        "problem_description": "Storm Slab avalanches are the release of a cohesive layer (a slab) of new snow that breaks within new snow or on the old snow surface. Storm-slabs typically last between a few hours and few days (following snowfall). Storm-slabs that form over a persistent weak layer (surface hoar, depth hoar, or near-surface facets) may be termed Persistent Slabs or may develop into Persistent Slabs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/StormSlab.png"
+      },
+      {
+        "id": 26802,
+        "forecast_id": 95998,
+        "avalanche_problem_id": 5,
+        "rank": 2,
+        "likelihood": "possible",
+        "discussion": "<p><span style=\"font-weight: 400;\">It is possible that you could trigger a deep persistent slab avalanche on steep slopes above 4500ft. There are many reports of avalanches failing on this layer in the last two weeks. It is probably buried 3 to 5 feet deep in this zone. Check out the photos of a few of those avalanches below. The amount of snow on top of the weak layer is making it more difficult to trigger, however, if someone were to find a shallower spot and trigger an avalanche, results would be catastrophic and probably unsurvivable. A snowshoer might get away without triggering an avalanche on this layer, but there is no doubt that a snowmobile could trigger one.&nbsp; It is unknown how widespread this persistent weak layer is, as it has been found on some slopes and not others.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">You will not find obvious signs of instability like you might with other problems like wind slab avalanches. You need to dig down to the Jan 13 crust and make note of the layer above it, observing the state of any persistent grains and how readily those layers just above the crust fail. I wouldn&rsquo;t place all my bets on one pit for this sort of problem, either. The game is too dangerous to play the odds on. Check out </span><a href=\"https://nwac.us/public-obs/20210207_jim-hill/\"><span style=\"font-weight: 400;\">this</span></a><span style=\"font-weight: 400;\"> report of a skier triggered avalanche that failed on the layer in the Steven&rsquo;s Pass zone on Sunday.&nbsp; Broad open slopes and large features in areas steeper than 35 degrees is where the highest likelihood of finding this problem is, so avoid those slopes at this time. </span></p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0263_601f45ce84d84.jpg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0263_601f45ce84d84.jpg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0263_601f45ce84d84.jpg",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0263_601f45ce84d84.jpg"
+          },
+          "type": "image",
+          "caption": "(2/6/2021) This slab was intentionally triggered by a small cornice drop on Saturday (2/6) in the Crystal backcountry. It propagated widely and is believed to have run on the Mid-January crust/facet combo. [E aspect, 6300'. Photo: Jeremy Allyn]"
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle"
+        ],
+        "size": [
+          "2",
+          "3"
+        ],
+        "name": "Deep Persistent Slab",
+        "problem_description": "Deep Persistent Slab avalanches are the release of a thick cohesive layer of hard snow (a slab), when the bond breaks between the slab and an underlying persistent weak layer deep in the snowpack. The most common persistent weak layers involved in deep, persistent slabs are depth hoar or facets surrounding a deeply buried crust. Deep Persistent Slabs are typically hard to trigger, are very destructive and dangerous due to the large mass of snow involved, and can persist for months once developed. They are often triggered from areas where the snow is shallow and weak, and are particularly difficult to forecast for and manage.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/DeepPersistentSlab.png"
+      }
+    ],
+    "danger": [
+      {
+        "lower": 2,
+        "upper": 3,
+        "middle": 3,
+        "valid_day": "current"
+      },
+      {
+        "lower": 2,
+        "upper": 3,
+        "middle": 3,
+        "valid_day": "tomorrow"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 143,
+        "name": "West Slopes Central",
+        "url": "http://www.nwac.us/avalanche-forecast/#/west-slopes-central",
+        "state": "WA"
+      }
+    ]
+  },
+  "144": {
+    "id": 95999,
+    "published_time": "2021-02-09T02:39:00+00:00",
+    "expires_time": "2021-02-10T02:00:00+00:00",
+    "created_at": "2021-02-09T01:04:19+00:00",
+    "updated_at": "2021-02-09T02:39:49+00:00",
+    "author": "Andy Harrington",
+    "product_type": "forecast",
+    "bottom_line": "<p><span style=\"font-weight: 400;\">Avoid terrain that has evidence of being influenced by the wind. The snowpack needs time to heal and may not heal as quickly as you are used to. Buried weak layers are not going away anytime soon and should drive you toward conservative terrain.&nbsp;</span></p>",
+    "hazard_discussion": "<p><span style=\"font-weight: 400;\"><strong>Preliminary avalanche incident information Monday February 8th, 2021:</strong> Two snow bike riders were caught and buried by a very large avalanche in the mountains west of Salmon la Sac Sno-Park along Cle Elum Lake. One snow biker was partially buried and able to dig himself out. The other rider is fully buried and hasn&rsquo;t been recovered. Search and rescue operations are ongoing. &nbsp; </span></p>\n<p><span style=\"font-weight: 400;\">The avalanche occurred on a north aspect at 4400 ft in the Knox Creek drainage. This terrain lies in NWAC&rsquo;s East Central forecast zone. At least 8 other large avalanches were observed in the area. The other avalanches likely released within the last day or two. Initial avalanche classification: HS-AV-R3-D3-O.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">--------------------------------------------------------------------</span></p>\n<p><span style=\"font-weight: 400;\">Crystal Mountain patrollers were able to get some visibility over toward Mt. Rainier today and confirmed a very large avalanche occurred. Several other widely propagating avalanches were spotted in the surrounding terrain. These all are suspected to have run between Thursday and Sunday and many of them look to have broken similarly to the persistent slabs we have identified elsewhere in the zone. Until now, we hadn&rsquo;t seen any avalanches on these weak layers at Mount Rainier National Park, and although unconfirmed, we&rsquo;ll take a leap of faith that these slides failed on one of our two layers of concern. We had positively identified these layers of concern near Paradise on Thursday just as the storm cycle was getting started.</span></p>\n<p><span style=\"font-weight: 400;\">We have had a lot of large and dangerous avalanches in the West South this past week and unfortunately, the setup remains for these slides to continue. You need to keep approaching terrain with caution and being suspicious of open terrain features greater than 30 degrees. There were multiple avalanche involvements and close calls this past weekend, including a good free lesson from <a href=\"https://nwac.us/public-obs/20210207_jim-hill/\" target=\"_blank\" rel=\"noopener\">Stevens Pass</a>. Please be safe out there.</span></p>\n<p><span style=\"font-weight: 400;\"><strong><em>During the ongoing Covid-19 pandemic, continue to follow the latest guidance from local, state, and federal health officials. Avoid unnecessary risks that could impact first responders and stress medical resources.&nbsp; Wear a mask when appropriate, practice social distancing, and consider recreating closer to home.</em></strong></span></p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+      {
+        "id": 1,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0263_601f45ce84d84.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0263_601f45ce84d84.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0263_601f45ce84d84.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0263_601f45ce84d84.jpg"
+        },
+        "type": "image",
+        "caption": "(2/6/2021) This slab was intentionally triggered by a small cornice drop on Saturday (2/6) in the Crystal backcountry. It propagated widely and is believed to have run on the Mid-January crust/facet combo. [E aspect, 6300'. Photo: Jeremy Allyn]"
+      },
+      {
+        "id": 2,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0392_601c9f984bc0c.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0392_601c9f984bc0c.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0392_601c9f984bc0c.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0392_601c9f984bc0c.jpg"
+        },
+        "type": "image",
+        "caption": "(2/5/2021) This avalanche was remotely triggered in backcountry terrain just outside of the Crystal ski area. Similar to other recent slides, it failed on facets just above the 1/13 crust. 60cm deep, 150' wide. 5200' ESE aspect. Photo: Crystal Mt Ski Patrol "
+      },
+      {
+        "id": 3,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210204_111226086_601df013d5c2a.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210204_111226086_601df013d5c2a.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210204_111226086_601df013d5c2a.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210204_111226086_601df013d5c2a.jpg"
+        },
+        "type": "image",
+        "caption": "(2/5/2021) The upper snowpack contained multiple density breaks and \"normal PNW\" weaknesses at Paradise on Thursday. There should be even more from Thursday night and Saturday's storms. Triggering one of these layers could cause slabs to step down to those deeper and scarier persistent layers."
+      },
+      {
+        "id": 4,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210204_114235709_601df0136d304.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210204_114235709_601df0136d304.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210204_114235709_601df0136d304.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_20210204_114235709_601df0136d304.jpg"
+        },
+        "type": "image",
+        "caption": "(2/5/2021) We don't know of any slides in the Paradise area yet, but the snowpack structure is there and similar to other areas of the zone where more widespread persistent activity has taken place."
+      },
+      {
+        "id": 5,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_1204_601b3b7ee5d7c.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_1204_601b3b7ee5d7c.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_1204_601b3b7ee5d7c.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_1204_601b3b7ee5d7c.jpg"
+        },
+        "type": "image",
+        "caption": "(2/3/2021) This natural avalanche likely occurred overnight on 02/02. Similar to other slides it failed on facets above the 13 crust in non-skier compacted terrain of Crystal Mt. It occurred on a SE aspect at 6500'. Crown depth 2'. Photo: Crystal Mountain Ski Patrol"
+      },
+      {
+        "id": 6,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_1201_601b391a5befc.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_1201_601b391a5befc.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_1201_601b391a5befc.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_1201_601b391a5befc.jpg"
+        },
+        "type": "image",
+        "caption": "(2/3/2021) This natural avalanche likely occurred overnight on 02/02 in non-skier compacted terrain within Crystal Mt Ski Area. It failed on 1-2mm facets just above the 1/13 crust. 6300' NNE aspect. 85-95cm deep. Photo: Cyrstal Mt Ski Patrol"
+      },
+      {
+        "id": 7,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4363_6018978b779ea.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4363_6018978b779ea.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4363_6018978b779ea.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4363_6018978b779ea.jpg"
+        },
+        "type": "image",
+        "caption": "(2/1/2021) This small wind slab avalanche stepped down to the 1/23 facets above the thick prominent crust. Gunsight Bowl: N aspect, 6300',  18\" crown. HS-ASc-D1.5-R2-O "
+      },
+      {
+        "id": 8,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/7E37B2E3-7B69-43A9-9C4F-431A6EBAD6FF-scaled_60160a4389479.jpeg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/7E37B2E3-7B69-43A9-9C4F-431A6EBAD6FF-scaled_60160a4389479.jpeg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/7E37B2E3-7B69-43A9-9C4F-431A6EBAD6FF-scaled_60160a4389479.jpeg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/7E37B2E3-7B69-43A9-9C4F-431A6EBAD6FF-scaled_60160a4389479.jpeg"
+        },
+        "type": "image",
+        "caption": "(1/29/2021) Multiple slabs were remotely triggered from a far distance by a snowmobiler on Mt. Saint Helens on Friday (1/29). There were multiple other slides remotely triggered and observed on the same day. [Photo: Kurt Heine]"
+      }
+    ],
+    "weather_data": null,
+    "json_data": null,
+    "avalanche_center": {
+      "id": "NWAC",
+      "name": "Northwest Avalanche Center",
+      "url": "https://www.nwac.us/",
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "forecast_avalanche_problems": [
+      {
+        "id": 26763,
+        "forecast_id": 95999,
+        "avalanche_problem_id": 4,
+        "rank": 1,
+        "likelihood": "possible",
+        "discussion": "<p><span style=\"font-weight: 400;\">Continue to approach terrain over 30 degrees with caution in the West South as we navigate uncertainty around buried weak layers. You can dig down to determine the existence of these weak layers, but a single hole in the ground shouldn&rsquo;t be a tool for ruling them out in your area. In some areas of the zone, these layers may be close to a meter deep and you may not experience signs of instability as you travel. Just because you are not seeing obvious signs of instability does not mean that you have chosen the appropriate terrain. We have some uncertainty about what it would take to trigger one of these slides at this point, but it could be a step down from a smaller avalanche, a snowmobile, cornice, or even just a shallower spot in the snowpack. What we do know is that if you trigger one of these avalanches and are caught, it would most likely be unsurvivable.</span></p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/5899061033400465861_6021ad3b57ad3.jpg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/5899061033400465861_6021ad3b57ad3.jpg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/5899061033400465861_6021ad3b57ad3.jpg",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/5899061033400465861_6021ad3b57ad3.jpg"
+          },
+          "type": "image",
+          "caption": "(2/8/2021) This very large avalanche on Mt. Rainier was one of many avalanches viewable from Crystal Mountain on Monday (2/8). This avalanche likely occurred during the storm over the weekend. [Photo: Robin Pendry]"
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle",
+          "north lower",
+          "northeast lower",
+          "east lower",
+          "southeast lower",
+          "south lower",
+          "southwest lower",
+          "west lower",
+          "northwest lower"
+        ],
+        "size": [
+          "2",
+          "3"
+        ],
+        "name": "Persistent Slab",
+        "problem_description": "Persistent Slab avalanches are the release of a cohesive layer of snow (a slab) in the middle to upper snowpack, when the bond to an underlying persistent weak layer breaks. Persistent layers include: surface hoar, depth hoar, near-surface facets, or faceted snow. Persistent weak layers can continue to produce avalanches for days, weeks or even months, making them especially dangerous and tricky. As additional snow and wind events build a thicker slab on top of the persistent weak layer, this avalanche problem may develop into a Deep Persistent Slab.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/PersistentSlab.png"
+      },
+      {
+        "id": 26764,
+        "forecast_id": 95999,
+        "avalanche_problem_id": 3,
+        "rank": 2,
+        "likelihood": "likely",
+        "discussion": "<p><span style=\"font-weight: 400;\">Look for Wind Slabs to have developed on leeward slopes near ridgelines, or near rocky terrain such as cliffs and gullies. Convex rollovers or slopes over 35 degrees should be more prone to triggering avalanches, whether they are wind-loaded or not. There should be plenty of density changes and interstorm layers in the upper snowpack for you to investigate as potential failure points. As you travel, you can use uptrack tests or test slopes to see how the recent snow is reacting to your weight. Look for visual clues such as textured snow surfaces, freshly built cornices, or smooth pillow-like piles of snow to help you identify where the wind has affected the snow. In some areas, these visual clues may be hidden by low-density snow that fell on Sunday night. If so, try to feel for subtle differences in the snow as you travel. You could find that the snow feels firm and hollow, indicating a harder Wind Slab. You should avoid any slope greater than 35 degrees that you suspect is wind-loaded.</span></p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0261_601f45ce9e82d.jpg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0261_601f45ce9e82d.jpg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0261_601f45ce9e82d.jpg",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_0261_601f45ce9e82d.jpg"
+          },
+          "type": "image",
+          "caption": "(2/6/2021) Multiple slabs were observed on an E aspect at 6300' in the Crystal backcountry on Saturday (2/6). Deeper slides are suspected to have run on the Mid-January crust/facet combo while shallower Wind Slabs were also observed. [Photo: Jeremy Allyn]"
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Wind Slab",
+        "problem_description": "Wind Slab avalanches are the release of a cohesive layer of snow (a slab) formed by the wind. Wind typically transports snow from the upwind sides of terrain features and deposits snow on the downwind side. Wind slabs are often smooth and rounded and sometimes sound hollow, and can range from soft to hard. Wind slabs that form over a persistent weak layer (surface hoar, depth hoar, or near-surface facets) may be termed Persistent Slabs or may develop into Persistent Slabs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/WindSlab.png"
+      }
+    ],
+    "danger": [
+      {
+        "lower": 2,
+        "upper": 3,
+        "middle": 3,
+        "valid_day": "current"
+      },
+      {
+        "lower": 2,
+        "upper": 3,
+        "middle": 3,
+        "valid_day": "tomorrow"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 144,
+        "name": "West Slopes South",
+        "url": "http://www.nwac.us/avalanche-forecast/#/west-slopes-south",
+        "state": "WA"
+      }
+    ]
+  },
+  "145": {
+    "id": 95995,
+    "published_time": "2021-02-09T02:00:00+00:00",
+    "expires_time": "2021-02-10T02:00:00+00:00",
+    "created_at": "2021-02-08T23:43:04+00:00",
+    "updated_at": "2021-02-09T02:47:54+00:00",
+    "author": "Josh Hirshberg",
+    "product_type": "forecast",
+    "bottom_line": "<p>Significant recent snow and wind have left heightened avalanche danger on slopes 35 degrees and steeper. You can trigger loose avalanches at lower elevations and drifted wind slab avalanches at upper elevations. Deeply buried weak layers of snow leave a chance for triggering surprising and very large avalanches, especially in the eastern part of the zone.</p>",
+    "hazard_discussion": "<p><span style=\"font-weight: 400;\"><strong>Preliminary avalanche incident information Monday, February 8th, 2021:</strong> Two snow bike riders were caught and buried by a very large avalanche in the mountains west of Salmon la Sac Sno-Park along Cle Elum Lake. One snow biker was partially buried and able to dig himself out. The other rider is fully buried and hasn&rsquo;t been recovered. Search and rescue operations are ongoing. </span><span style=\"font-weight: 400;\">The avalanche occurred on a north aspect at 4400 ft in the Knox Creek drainage. This terrain lies in NWAC&rsquo;s East Central forecast zone. At least 8 other large avalanches were observed in the area. The other avalanches likely released within the last day or two. Initial avalanche classification: HS-AV-R3-D3-O.&nbsp;&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">----------------------------------------------------------</span></p>\n<p>On Monday, observers near the hairpin on Washington Pass reported an additional 5 inches of snow overnight with over 2 feet of storm snow since the 5th and wind transport at ridgetops. Observers on Delancey Ridge reported about half as much storm snow and still found tests indicating propagation on the Jan 30th interface of facets and surface hoar at 6050ft on a southeast aspect. On Sunday, observers dug a profile on a <a href=\"https://nwac.us/public-obs/20210207_hwy-20/\" target=\"_blank\" rel=\"noopener\">SW aspect at 7,200ft</a> and found reactive storm interfaces down 1 foot and a layer of rounding facets (likely Jan 30th) about 2 feet below the surface.&nbsp;</p>\n<p>On Saturday, a skier intentionally triggered a small wind slab on a cross-loaded southwest slope at 7400ft near Washington Pass. On Friday, a large ski triggered avalanche was reported near treeline along with several small wind slabs in steep terrain below cliff features in Cutthroat drainage. Last Wednesday, we believe that a significant portion of Portley Bowl avalanched naturally following a <a href=\"https://nwac.us/public-obs/20210202_washington-pass-portley-bowl/\" target=\"_blank\" rel=\"noopener\">ski triggered slab</a> on a smaller part of the bowl on Tuesday. Another skier <a style=\"background-color: #ffffff; color: #00364b; text-decoration-line: underline; outline: 0px;\" href=\"https://nwac.us/public-obs/20210202_confluence-early-winters-creek-cutthroat-creek/\" target=\"_blank\" rel=\"noopener\">had a close call</a> on Tuesday near an area often thought of as 'safe' ski terrain. We suspect buried surface hoar as the culprit for these two avalanches last week.</p>\n<p><strong><em>During the ongoing Covid-19 pandemic, continue to follow the latest guidance from local, state, and federal health officials. Avoid unnecessary risks that could impact first responders and stress medical resources. Wear a mask when appropriate, practice social distancing, and consider recreating closer to home.</em></strong></p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+      {
+        "id": 1,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210203%20Portly-Bowl2%20James%20Schick_601b4fe4361b4.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210203%20Portly-Bowl2%20James%20Schick_601b4fe4361b4.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210203%20Portly-Bowl2%20James%20Schick_601b4fe4361b4.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210203%20Portly-Bowl2%20James%20Schick_601b4fe4361b4.jpg"
+        },
+        "type": "image",
+        "caption": "(2/2/2021) Ski triggered avalanche in Portley Bowl. East aspect at ~7,000ft"
+      },
+      {
+        "id": 2,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210131_100230_annot_6017b9f7c7d15.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210131_100230_annot_6017b9f7c7d15.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210131_100230_annot_6017b9f7c7d15.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210131_100230_annot_6017b9f7c7d15.jpg"
+        },
+        "type": "image",
+        "caption": "(1/31/2021) A profile from 5,700ft, SE in Cutthroat Creek. Photo: Josh Hirshberg"
+      },
+      {
+        "id": 3,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210131_094840-01_601766e3193e8.jpeg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210131_094840-01_601766e3193e8.jpeg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210131_094840-01_601766e3193e8.jpeg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210131_094840-01_601766e3193e8.jpeg"
+        },
+        "type": "image",
+        "caption": "(1/31/2021) The darker stripe of snow is a layer of surface hoar buried on January 30th near Washington Pass. This was found 25cm below the surface on a SE aspect at 5,700ft on January 31st. Photo: Josh Hirshberg"
+      },
+      {
+        "id": 4,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210131_093325-01_601766e043542.jpeg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210131_093325-01_601766e043542.jpeg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210131_093325-01_601766e043542.jpeg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210131_093325-01_601766e043542.jpeg"
+        },
+        "type": "image",
+        "caption": "(1/31/2021) About a foot of recent snow produced fast and clean shears on an interface of recent snow (DF) and surface hoar.  SE, 5,750ft, Cutthroat ck. Photo: Josh Hirshberg"
+      },
+      {
+        "id": 5,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4889-scaled_601352b13500d.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4889-scaled_601352b13500d.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4889-scaled_601352b13500d.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4889-scaled_601352b13500d.jpg"
+        },
+        "type": "image",
+        "caption": "(1/27/2021) Storm snow over a crust has been collapsing on weaker snow below. 5,500ft in the lower Methow drainage. Photo: Drew Lovell"
+      }
+    ],
+    "weather_data": null,
+    "json_data": null,
+    "avalanche_center": {
+      "id": "NWAC",
+      "name": "Northwest Avalanche Center",
+      "url": "https://www.nwac.us/",
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "forecast_avalanche_problems": [
+      {
+        "id": 26796,
+        "forecast_id": 95995,
+        "avalanche_problem_id": 3,
+        "rank": 1,
+        "likelihood": "possible",
+        "discussion": "<p>As recently as Saturday night strong westerly winds formed slabs on leeward slopes. Wind slabs will be bigger and easier to trigger above treeline. Feel for wind stiffened or hollow sounding snow as you enter open areas and change aspects. Be especially careful of cross loaded gully features and cornices. Watch for shooting cracks or whumphing collapses as a clear sign of instability.&nbsp; Wind slabs could also step down to other weak snow layers in the top 2ft of the snowpack.</p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/SW_7400_PRiffy_20210206_601f50f54f7e2.jpg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/SW_7400_PRiffy_20210206_601f50f54f7e2.jpg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/SW_7400_PRiffy_20210206_601f50f54f7e2.jpg",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/SW_7400_PRiffy_20210206_601f50f54f7e2.jpg"
+          },
+          "type": "image",
+          "caption": "(2/6/2021) A skier intentionally triggered a small wind slab avalanche on a SW aspect at 74000ft near Washington Pass on Saturday."
+        },
+        "location": [
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "north middle",
+          "northeast middle",
+          "northeast upper",
+          "north upper",
+          "northwest upper",
+          "southwest upper",
+          "south upper",
+          "southeast upper",
+          "east upper",
+          "northwest middle",
+          "west middle",
+          "west upper"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Wind Slab",
+        "problem_description": "Wind Slab avalanches are the release of a cohesive layer of snow (a slab) formed by the wind. Wind typically transports snow from the upwind sides of terrain features and deposits snow on the downwind side. Wind slabs are often smooth and rounded and sometimes sound hollow, and can range from soft to hard. Wind slabs that form over a persistent weak layer (surface hoar, depth hoar, or near-surface facets) may be termed Persistent Slabs or may develop into Persistent Slabs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/WindSlab.png"
+      },
+      {
+        "id": 26797,
+        "forecast_id": 95995,
+        "avalanche_problem_id": 1,
+        "rank": 2,
+        "likelihood": "likely",
+        "discussion": "<p>On many wind-sheltered slopes, the snow surface is light and uncohesive. You can trigger loose avalanches on slopes near to 40 degrees. While these avalanches can be easy to predict, they can be dangerous if you get caught off guard. Use caution around terrain traps like rocks, cliffs, and gullies where loose avalanches could bury you or cause injury.</p>",
+        "media": {
+          "url": "",
+          "type": "",
+          "caption": ""
+        },
+        "location": [
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle",
+          "north lower",
+          "northeast lower",
+          "east lower",
+          "southeast lower",
+          "south lower",
+          "southwest lower",
+          "west lower",
+          "northwest lower"
+        ],
+        "size": [
+          "1",
+          "1"
+        ],
+        "name": "Dry Loose",
+        "problem_description": "Dry Loose avalanches are the release of dry unconsolidated snow and typically occur within layers of soft snow near the surface of the snowpack. These avalanches start at a point and entrain snow as they move downhill, forming a fan-shaped avalanche. Other names for loose-dry avalanches include point-release avalanches or sluffs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/DryLoose.png"
+      },
+      {
+        "id": 26798,
+        "forecast_id": 95995,
+        "avalanche_problem_id": 4,
+        "rank": 3,
+        "likelihood": "possible",
+        "discussion": "<p>You may still be able to trigger wide and surprising avalanches on older, faceted grains or buried surface hoar 2-3ft below the surface. Audible whumphing collapses, cracks shooting through the snow, and widely propagating avalanches are all warning signs. You could trigger slides on convex rolls and unsupported features. While the likelihood of these avalanches is dropping, the consequences remain high. If in doubt, opt for lower angle terrain and consider sticking to slopes less than 35 degrees.</p>\n<p>Observers are still finding a layer of buried surface hoar and small facets about 2-3 feet below the surface near Washington Pass and especially in the Cutthroat drainage. The most recent avalanche suspected on this layer was on the 3rd. Test results and a lack of recent signs of instability indicate that avalanches are becoming harder to trigger. Further east, you may be able to trigger avalanches on older, weak facets above or between crusts from mid-January. This weak layer is also about 3 feet below the surface in the eastern mountains of the Twisp and Chewuch drainages.</p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204%20Portley%20Bowl%20Avalanches_3_601c45b0720be.jpg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204%20Portley%20Bowl%20Avalanches_3_601c45b0720be.jpg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204%20Portley%20Bowl%20Avalanches_3_601c45b0720be.jpg",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210204%20Portley%20Bowl%20Avalanches_3_601c45b0720be.jpg"
+          },
+          "type": "image",
+          "caption": "(2/3/2021) A ski triggered avalanche was reported in Portley Bowl on 2/2. The next day an observer took the bottom photograph at 10:50AM. The majority of the rest of the slopes in the bowl had avalanched, with no ski tracks observed in or out of the slides. These may have been solar triggered, and suspected to have failed on a buried surface hoar layer from 1/30."
+        },
+        "location": [
+          "northwest lower",
+          "north lower",
+          "southeast middle",
+          "south lower",
+          "southwest lower",
+          "west lower",
+          "west middle",
+          "southwest middle",
+          "south middle",
+          "southeast lower",
+          "east lower",
+          "east middle",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest middle",
+          "northwest upper",
+          "north middle",
+          "north upper",
+          "northeast upper",
+          "northeast middle",
+          "northeast lower"
+        ],
+        "size": [
+          "2",
+          "3"
+        ],
+        "name": "Persistent Slab",
+        "problem_description": "Persistent Slab avalanches are the release of a cohesive layer of snow (a slab) in the middle to upper snowpack, when the bond to an underlying persistent weak layer breaks. Persistent layers include: surface hoar, depth hoar, near-surface facets, or faceted snow. Persistent weak layers can continue to produce avalanches for days, weeks or even months, making them especially dangerous and tricky. As additional snow and wind events build a thicker slab on top of the persistent weak layer, this avalanche problem may develop into a Deep Persistent Slab.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/PersistentSlab.png"
+      }
+    ],
+    "danger": [
+      {
+        "lower": 2,
+        "upper": 2,
+        "middle": 2,
+        "valid_day": "current"
+      },
+      {
+        "lower": 2,
+        "upper": 2,
+        "middle": 2,
+        "valid_day": "tomorrow"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 145,
+        "name": "East Slopes North",
+        "url": "http://www.nwac.us/avalanche-forecast/#/east-slopes-north",
+        "state": "WA"
+      }
+    ]
+  },
+  "146": {
+    "id": 96004,
+    "published_time": "2021-02-09T02:40:00+00:00",
+    "expires_time": "2021-02-10T02:00:00+00:00",
+    "created_at": "2021-02-09T02:06:31+00:00",
+    "updated_at": "2021-02-09T02:56:20+00:00",
+    "author": "Josh Hirshberg",
+    "product_type": "forecast",
+    "bottom_line": "<p>Dangerous conditions continue as significant snowfall and wind have added a heavy load and stressed older layers of weak snow. &nbsp;Stay far away from and well out from under large open slopes 35 degrees and steeper. Consider avoiding avalanche terrain at upper elevations where you can trigger very large and destructive avalanches that could break widely across slopes.</p>",
+    "hazard_discussion": "<p><span style=\"font-weight: 400;\"><strong>Preliminary avalanche incident information Monday, February 8th, 2021:</strong> Two snow bike riders were caught and buried by a very large avalanche in the mountains west of Salmon la Sac Sno-Park along Cle Elum Lake. One snow biker was partially buried and able to dig himself out. The other rider is fully buried and hasn&rsquo;t been recovered. Search and rescue operations are ongoing. </span><span style=\"font-weight: 400;\">The avalanche occurred on a north aspect at 4400 ft in the Knox Creek drainage. This terrain lies in NWAC&rsquo;s East Central forecast zone. At least 8 other large avalanches were observed in the area. The other avalanches likely released within the last day or two. Initial avalanche classification: HS-AV-R3-D3-O.&nbsp;&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">----------------------------------------------------------</span></p>\n<p><span style=\"font-weight: 400;\">Dangerous conditions have produced many very large avalanches and avalanche involvements over the past week including the following:</span></p>\n<p><span style=\"font-weight: 400;\">Widely propagating avalanches ran over the weekend on an east aspect of Sixtysix Hundred (6600ft) ridge in the Icicle drainage. We received second-hand reports of triggered avalanches in the Salmon La Sac drainage on Sunday. On Saturday, observers reported a D2 natural avalanche near <a href=\"https://nwac.us/public-obs/20210206_van-epps/\" target=\"_blank\" rel=\"noopener\">Van Epps Pass</a> and a <a href=\"https://nwac.us/public-obs/20210206_easton/\" target=\"_blank\" rel=\"noopener\">D3 sized avalanche that resulted in a burial</a> with no injuries near the Easton Sno-Park. Observers reported a natural D2 avalanche on an east aspect at 5,500ft west of Blewett Pass on Friday. On Thursday, a snowboarder <a href=\"https://nwac.us/public-obs/20210204_in-bounds-mission-ridge/\" target=\"_blank\" rel=\"noopener\">was caught in a wind slab avalanche </a>at Mission Ridge on a Northwest aspect in the Near Treeline elevation band. Luckily they escaped unharmed. An observer reported a <a href=\"https://nwac.us/public-obs/20210203_railroad-creek-valley/\" target=\"_blank\" rel=\"noopener\">number of large</a> (up to D2.5) avalanches with the recent storm from February 1 or 2 near Holden Village.&nbsp;</span></p>\n<p><strong><em>During the ongoing Covid-19 pandemic, continue to follow the latest guidance from local, state, and federal health officials. Avoid unnecessary risks that could impact first responders and stress medical resources. Wear a mask when appropriate, practice social distancing, and consider recreating closer to home.</em></strong></p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+      {
+        "id": 1,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9075_601cc1a6f3fdc.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9075_601cc1a6f3fdc.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9075_601cc1a6f3fdc.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9075_601cc1a6f3fdc.jpg"
+        },
+        "type": "image",
+        "caption": "(2/3/2021) This crack came from a whumph we heard while stepping on a thick wind pillow. It fractured on the slick 1/13 crust, about 1.5ft deep."
+      },
+      {
+        "id": 2,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/_601a0079b7e44.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/_601a0079b7e44.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/_601a0079b7e44.jpg",
+          "video_id": "zPvHtG7iqgM",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/_601a0079b7e44.jpg"
+        },
+        "type": "video",
+        "caption": "(2/2/2021)  A compression test shows an easy result failing top of the mid-January facet/crust combo.  NE aspect 6200' on Mt Lillian. Video by Matt Primomo"
+      },
+      {
+        "id": 3,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210203%20Mike%20Rolfs%20photo_601dbec286a60.jpeg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210203%20Mike%20Rolfs%20photo_601dbec286a60.jpeg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210203%20Mike%20Rolfs%20photo_601dbec286a60.jpeg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20210203%20Mike%20Rolfs%20photo_601dbec286a60.jpeg"
+        },
+        "type": "image",
+        "caption": "(2/2/2021) Ski triggered persistent slab near Chair 2 at Mission Ridge with a 48\" crown. A bystander was caught and carried, no injuries reported."
+      },
+      {
+        "id": 4,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9030%20%281%29_6019ff06c1d3a.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9030%20%281%29_6019ff06c1d3a.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9030%20%281%29_6019ff06c1d3a.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_9030%20%281%29_6019ff06c1d3a.jpg"
+        },
+        "type": "image",
+        "caption": "(2/2/2021) The result from an extended column test indicates propagation is possible on an East aspect at 5900 ft.  ECTP11 down 40 cm on 1/13 facet/crust combo. Photo by Matt Primomo"
+      },
+      {
+        "id": 5,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DrCreek_collapse_%20NW_6900_6014c47442864.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DrCreek_collapse_%20NW_6900_6014c47442864.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DrCreek_collapse_%20NW_6900_6014c47442864.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DrCreek_collapse_%20NW_6900_6014c47442864.jpg"
+        },
+        "type": "image",
+        "caption": "(1/28/2021) A quick profile at the site of a large collapse with cracks running 10 feet through the snow. A thick weak layer of facets can be seen just under a crust and recent snow that fell since the 24th. Icicle drainage, NW, 6,900ft. Photo: Josh Hirshberg"
+      },
+      {
+        "id": 6,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_8924-scaled_6013609819353.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_8924-scaled_6013609819353.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_8924-scaled_6013609819353.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_8924-scaled_6013609819353.jpg"
+        },
+        "type": "image",
+        "caption": "(1/27/2021) Profile showing weak structure with a crust facet sandwich."
+      }
+    ],
+    "weather_data": null,
+    "json_data": null,
+    "avalanche_center": {
+      "id": "NWAC",
+      "name": "Northwest Avalanche Center",
+      "url": "https://www.nwac.us/",
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "forecast_avalanche_problems": [
+      {
+        "id": 26805,
+        "forecast_id": 96004,
+        "avalanche_problem_id": 4,
+        "rank": 1,
+        "likelihood": "likely",
+        "discussion": "<p><span style=\"font-weight: 400;\">Recent snow and strong wind have made it likely to trigger avalanches 3ft to 4ft deep. Persistent slabs can propagate widely across terrain features and can result in very large and deadly avalanches. Stay well out from under any large open slopes steeper than 30 degrees, as they can be triggered from a long distance away or from below. Be alert to signs of instability such as shooting cracks, and whumphing collapses. </span></p>\n<p><span style=\"font-weight: 400;\">Recent observations continue to indicate that large slab avalanches can release on a crust from mid-January. These have occurred mainly on Northwest to Southeast aspects above 5,500ft. The Salmon la Sac, Icicle, and other areas on the south and western edge of the zone have been favored for snowfall and now hold dangerous conditions. While slabs are thinner and the danger may be less elevated in the Wenatchee Mountains, the avalanches will be similar. When the snowpack is complex, it's easiest to keep your decisions simple and avoid avalanche terrain.</span></p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/6600_Ridge_ENE_20210208_6021f91448cbf.JPG",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/6600_Ridge_ENE_20210208_6021f91448cbf.JPG",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/6600_Ridge_ENE_20210208_6021f91448cbf.JPG",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/6600_Ridge_ENE_20210208_6021f91448cbf.JPG"
+          },
+          "type": "image",
+          "caption": "(2/8/2021) A very large (D3) natural avalanche likely ran between Feb 6-7th on Sixtysix Hundred ridge in the Icicle drainage. 6,600ft, ENE. Photo: Matt Primomo"
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle",
+          "west lower",
+          "southwest lower",
+          "south lower",
+          "southeast lower",
+          "east lower",
+          "northeast lower",
+          "north lower",
+          "northwest lower"
+        ],
+        "size": [
+          "2",
+          "3"
+        ],
+        "name": "Persistent Slab",
+        "problem_description": "Persistent Slab avalanches are the release of a cohesive layer of snow (a slab) in the middle to upper snowpack, when the bond to an underlying persistent weak layer breaks. Persistent layers include: surface hoar, depth hoar, near-surface facets, or faceted snow. Persistent weak layers can continue to produce avalanches for days, weeks or even months, making them especially dangerous and tricky. As additional snow and wind events build a thicker slab on top of the persistent weak layer, this avalanche problem may develop into a Deep Persistent Slab.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/PersistentSlab.png"
+      },
+      {
+        "id": 26806,
+        "forecast_id": 96004,
+        "avalanche_problem_id": 3,
+        "rank": 2,
+        "likelihood": "likely",
+        "discussion": "<p>Strong west winds transported the snow in open and wind-exposed terrain. Feel for wind stiffened or hollow sounding snow as you enter open terrain, and change aspects.&nbsp; Any avalanche in the new snow could step down to deeper weaker layers and result in a very large and deadly avalanche above 5,000ft. Consider the terrain you're connected to and avoid steep, open wind loaded slopes. Stay alert to indicators of wind slab such as heavy snow drifting, shooting cracks and whumphing collapses.</p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4362_6018978b6526f.jpg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4362_6018978b6526f.jpg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4362_6018978b6526f.jpg",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4362_6018978b6526f.jpg"
+          },
+          "type": "image",
+          "caption": "(2/1/2021) From White Pass on Monday: Example of a small wind slab avalanche stepping down to weaker deeper layers. "
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Wind Slab",
+        "problem_description": "Wind Slab avalanches are the release of a cohesive layer of snow (a slab) formed by the wind. Wind typically transports snow from the upwind sides of terrain features and deposits snow on the downwind side. Wind slabs are often smooth and rounded and sometimes sound hollow, and can range from soft to hard. Wind slabs that form over a persistent weak layer (surface hoar, depth hoar, or near-surface facets) may be termed Persistent Slabs or may develop into Persistent Slabs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/WindSlab.png"
+      }
+    ],
+    "danger": [
+      {
+        "lower": 3,
+        "upper": 3,
+        "middle": 3,
+        "valid_day": "current"
+      },
+      {
+        "lower": 2,
+        "upper": 3,
+        "middle": 3,
+        "valid_day": "tomorrow"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 146,
+        "name": "East Slopes Central",
+        "url": "http://www.nwac.us/avalanche-forecast/#/east-slopes-central",
+        "state": "WA"
+      }
+    ]
+  },
+  "147": {
+    "id": 95996,
+    "published_time": "2021-02-09T02:00:00+00:00",
+    "expires_time": "2021-02-10T02:00:00+00:00",
+    "created_at": "2021-02-09T00:29:49+00:00",
+    "updated_at": "2021-02-09T02:38:28+00:00",
+    "author": "Dennis D'Amico",
+    "product_type": "forecast",
+    "bottom_line": "<p>Triggering a wind slab or cornice at upper elevations may result in a large and deadly avalanche that breaks down to weaker, deeper snow layers.&nbsp; Play it conservative and avoid all avalanche terrain at upper elevations.&nbsp; Limit your overhead exposure to large avalanche paths at lower elevations.&nbsp;</p>",
+    "hazard_discussion": "<p><strong>Preliminary avalanche incident information Monday February 8</strong><strong>th</strong><strong>, 2021:</strong><span style=\"font-weight: 400;\"> Two snow bike riders were caught and buried by a very large avalanche in the mountains west of Salmon la Sac Sno-Park along Cle Elum Lake. One snow biker was partially buried and able to dig himself out. The other rider is fully buried and hasn&rsquo;t been recovered. Search and rescue operations are ongoing.</span></p>\n<p><span style=\"font-weight: 400;\">The avalanche occurred on a north aspect at 4400 ft in the Knox Creek drainage. This terrain lies in NWAC&rsquo;s East Central forecast zone. At least 8 other large avalanches were observed in the area. The other avalanches likely released within the last day or two. Initial avalanche classification: HS-AV-R3-D3-O.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">----------------------------------------------------------------</span></p>\n<p>The recent storm cycle has brought more wind than snow to the East South zone.&nbsp; &nbsp;Milder temperatures seen over the first half of the weekend cooled below freezing on Sunday.&nbsp; Strong to extreme westerly ridgeline winds finally backed off early Monday morning.&nbsp; Several inches of snow has accumulated above 6000' since Friday with lighter new snow accumulations at lower elevations.&nbsp; The strength and duration of the westerly winds have likely formed shallow wind slabs further downslope than usual and on a variety of aspects.&nbsp; It also may have stripped ridgelines and exposed windward slopes down to an icy crust layer.&nbsp;</p>\n<p>Lingering wind slabs are the most obvious avalanche problem you'll encounter on Tuesday.&nbsp; However, we are more concerned about deeper persistent weak layers in the East South zone.&nbsp; With large and potentially deadly persistent slab avalanches occurring in neighboring zones (<a href=\"https://nwac.us/avalanche-forecast/#/east-slopes-central\" target=\"_blank\" rel=\"noopener\">East Central</a> and <a href=\"https://nwac.us/avalanche-forecast/#/west-slopes-south\" target=\"_blank\" rel=\"noopener\">West South</a>), continue to limit your exposure to large avalanche paths until we know more.&nbsp; Triggering a smaller avalanche or cornice fall could result in an avalanche breaking down to older weaker snow layers.&nbsp; Persistent slabs can break widely around terrain features. Don't try to manage this problem.&nbsp; Give yourself a healthy buffer and stick to lower angled terrain at mid and lower elevations that are not exposed to large avalanche paths.&nbsp;</p>\n<p><span style=\"font-weight: 400;\">If you're out in East South, help improve this bulletin by </span><a href=\"https://nwac.us/observations/submit/\"><span style=\"font-weight: 400;\">submitting an observation.&nbsp;</span></a></p>\n<p><strong><em>During the ongoing Covid-19 pandemic, continue to follow the latest guidance from local, state, and federal health officials. Avoid unnecessary risks that could impact first responders and stress medical resources.&nbsp; Wear a mask when appropriate, practice social distancing, and consider recreating closer to home.</em></strong></p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+      {
+        "id": 1,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_1204_601b3b7ee5d7c.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_1204_601b3b7ee5d7c.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_1204_601b3b7ee5d7c.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_1204_601b3b7ee5d7c.jpg"
+        },
+        "type": "image",
+        "caption": "(2/3/2021) This natural avalanche likely occurred overnight on 02/02. Similar to other slides it failed on facets above the 13 crust in non-skier compacted terrain of Crystal Mt. It occurred on a SE aspect at 6500'. Crown depth 2'. Photo: Crystal Mountain Ski Patrol"
+      },
+      {
+        "id": 2,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4362_6018978b6526f.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4362_6018978b6526f.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4362_6018978b6526f.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4362_6018978b6526f.jpg"
+        },
+        "type": "image",
+        "caption": "(2/1/2021) From White Pass: Example of a small wind slab avalanche stepping down to weaker deeper layers."
+      },
+      {
+        "id": 3,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4359_6018978835c70.JPG",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4359_6018978835c70.JPG",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4359_6018978835c70.JPG",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_4359_6018978835c70.JPG"
+        },
+        "type": "image",
+        "caption": "(2/1/2021) This snow profile from Miriam creek near White Pass shows the facet layer of concern. "
+      },
+      {
+        "id": 4,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_8924-scaled_6013609819353.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_8924-scaled_6013609819353.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_8924-scaled_6013609819353.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/IMG_8924-scaled_6013609819353.jpg"
+        },
+        "type": "image",
+        "caption": "(1/27/2021) Profile near Blewett Pass showing weak structure with a crust facet sandwich. "
+      }
+    ],
+    "weather_data": null,
+    "json_data": null,
+    "avalanche_center": {
+      "id": "NWAC",
+      "name": "Northwest Avalanche Center",
+      "url": "https://www.nwac.us/",
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "forecast_avalanche_problems": [
+
+    ],
+    "danger": [
+      {
+        "lower": null,
+        "upper": null,
+        "middle": null,
+        "valid_day": "current"
+      },
+      {
+        "lower": null,
+        "upper": null,
+        "middle": null,
+        "valid_day": "tomorrow"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 147,
+        "name": "East Slopes South",
+        "url": "http://www.nwac.us/avalanche-forecast/#/east-slopes-south",
+        "state": "WA"
+      }
+    ]
+  },
+  "148": {
+    "id": 96001,
+    "published_time": "2021-02-09T02:00:00+00:00",
+    "expires_time": "2021-02-10T02:00:00+00:00",
+    "created_at": "2021-02-09T01:07:20+00:00",
+    "updated_at": "2021-02-09T02:38:17+00:00",
+    "author": "Dennis D'Amico",
+    "product_type": "forecast",
+    "bottom_line": "<p>Recent extreme winds have formed wind slabs on unusual aspects and further downslope than usual.&nbsp; Exercise caution around wind-loaded slopes steeper than 35 degrees.&nbsp; If you're traveling to further-flung areas in the Mt Hood zone,&nbsp; look for signs of instability like collapsing, whumping or shooting cracks as indicators that the avalanche danger may be greater in your area.&nbsp;</p>",
+    "hazard_discussion": "<p><strong>Preliminary avalanche incident information Monday February 8</strong><strong>th</strong><strong>, 2021:</strong><span style=\"font-weight: 400;\"> Two snow bike riders were caught and buried by a very large avalanche in the mountains west of Salmon la Sac Sno-Park along Cle Elum Lake. One snow biker was partially buried and able to dig himself out. The other rider is fully buried and hasn&rsquo;t been recovered. Search and rescue operations are ongoing.</span></p>\n<p><span style=\"font-weight: 400;\">The avalanche occurred on a north aspect at 4400 ft in the Knox Creek drainage. This terrain lies in NWAC&rsquo;s East Central forecast zone. At least 8 other large avalanches were observed in the area. The other avalanches likely released within the last day or two. Initial avalanche classification: HS-AV-R3-D3-O.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">----------------------------------------------------------------</span></p>\n<p>Strong to extreme west winds have been the main story over the last several days at Mt Hood.&nbsp; From Friday evening through early Monday morning winds at the 6500' weather station at Meadows <em>averaged</em> 30 mph over this stretch with much higher gusts.&nbsp; Despite a multi-day wind event, no new avalanches were reported on Sunday or Monday.&nbsp; Textured and firmer wind-affected snow or wind stripped ridgelines should not be hard to find, especially as you climb in elevation.&nbsp; In areas where winds have stripped recent snow, a thin freezing rain crust may glaze the surface. &nbsp;<span style=\"font-weight: 400;\">&nbsp;An <strong><a href=\"https://nwac.us/public-obs/20210205_newton-canyon-trees-ne-between-5600-5800-ft/\" target=\"_blank\" rel=\"noopener\">observation from Newton Canyon</a></strong> found this surface crust even on NE aspects below 6000 ft.</span> In wind sheltered areas you may find roughly 4\" of snow that accumulated through Sunday morning with a cooling trend.&nbsp;</p>\n<p><span style=\"font-weight: 400;\">The stout mid-January crust is considered the new \"ground\" with a strong snowpack structure in place below this layer. Weak and faceted snow just above the stout rain crust was responsible for a number of avalanches last week, but no new evidence of avalanches on this interface suggests these facets are gaining strength.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Headed north to recreate?&nbsp; We have a tricky snowpack with persistent slab problems in all forecast zones across the state line.&nbsp; Take the time to read about the different snowpacks that have developed further north and adjust your terrain selection accordingly.&nbsp;</span></p>\n<p><strong>During the ongoing Covid-19 pandemic, continue to follow the latest guidance from local, state, and federal health officials. Avoid unnecessary risks that could impact first responders and stress medical resources.&nbsp; Wear a mask when appropriate, practice social distancing, and consider recreating closer to home.</strong></p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+      {
+        "id": 1,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DG%20wind%20transport%20and%20texture_5fbdac45a3231.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DG%20wind%20transport%20and%20texture_5fbdac45a3231.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DG%20wind%20transport%20and%20texture_5fbdac45a3231.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DG%20wind%20transport%20and%20texture_5fbdac45a3231.jpg"
+        },
+        "type": "image",
+        "caption": "Blowing snow, firm and textured snow, and cornice formation are all evidence that wind slabs are likely to be forming on lee slopes."
+      },
+      {
+        "id": 2,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/_5fbedf2dc3adc.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/_5fbedf2dc3adc.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/_5fbedf2dc3adc.jpg",
+          "video_id": "o4s7_qiBNXY",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/_5fbedf2dc3adc.jpg"
+        },
+        "type": "video",
+        "caption": "(11/25/2020) Wind transport on Mt Hood 11-25-20 ~5800' on a NW aspect."
+      }
+    ],
+    "weather_data": null,
+    "json_data": null,
+    "avalanche_center": {
+      "id": "NWAC",
+      "name": "Northwest Avalanche Center",
+      "url": "https://www.nwac.us/",
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "forecast_avalanche_problems": [
+      {
+        "id": 26758,
+        "forecast_id": 96001,
+        "avalanche_problem_id": 3,
+        "rank": 1,
+        "likelihood": "possible",
+        "discussion": "<p><span style=\"font-weight: 400;\">All elevation bands will have firm wind affected snow, that's the easy part following several days of strong to extreme winds.&nbsp; &nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Don't take a lack of natural avalanche activity or obvious red flags like cracking or collapsing as a guarantee for stability.&nbsp; Firm wind slabs may have formed on unusual aspects or further downslope than usual.&nbsp; While wind slabs may be stubborn to trigger, treat all slopes steeper than 35 degrees with caution.&nbsp;</span></p>\n<p>&nbsp;</p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Screen%20Shot%202020-12-21%20at%204_5fe1438f23309.52_5fe1438f23309.41%20PM_5fe1438f23309.png",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Screen%20Shot%202020-12-21%20at%204_5fe1438f23309.52_5fe1438f23309.41%20PM_5fe1438f23309.png",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Screen%20Shot%202020-12-21%20at%204_5fe1438f23309.52_5fe1438f23309.41%20PM_5fe1438f23309.png",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Screen%20Shot%202020-12-21%20at%204_5fe1438f23309.52_5fe1438f23309.41%20PM_5fe1438f23309.png"
+          },
+          "type": "image",
+          "caption": "Not all wind loaded terrain may be this straight forward to decipher. Probe for firmer or hollow sounding snow as you travel. \n\nExample: Wind slab avalanche below a corniced ridgeline.  "
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Wind Slab",
+        "problem_description": "Wind Slab avalanches are the release of a cohesive layer of snow (a slab) formed by the wind. Wind typically transports snow from the upwind sides of terrain features and deposits snow on the downwind side. Wind slabs are often smooth and rounded and sometimes sound hollow, and can range from soft to hard. Wind slabs that form over a persistent weak layer (surface hoar, depth hoar, or near-surface facets) may be termed Persistent Slabs or may develop into Persistent Slabs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/WindSlab.png"
+      }
+    ],
+    "danger": [
+      {
+        "lower": 1,
+        "upper": 2,
+        "middle": 2,
+        "valid_day": "current"
+      },
+      {
+        "lower": 1,
+        "upper": 2,
+        "middle": 2,
+        "valid_day": "tomorrow"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 148,
+        "name": "Mt Hood",
+        "url": "http://www.nwac.us/avalanche-forecast/#/mt-hood\n",
+        "state": "OR"
+      }
+    ]
+  }
+}
