@@ -1,0 +1,607 @@
+{
+  "293": {
+    "id": 109134,
+    "published_time": "2022-03-21T13:20:00+00:00",
+    "expires_time": "2022-03-22T12:00:00+00:00",
+    "created_at": "2022-03-21T10:45:21+00:00",
+    "updated_at": "2022-03-21T13:20:56+00:00",
+    "author": "Ben VandenBos",
+    "product_type": "forecast",
+    "bottom_line": "<p>You are most likely to trigger an avalanche where the wind has stiffened the snow above weak layers in the upper snowpack. While less likely, there is a chance of triggering an avalanche in very steep, wind-sheltered terrain. You can significantly reduce your risk of encountering an avalanche by choosing gentler terrain that is sheltered from the wind.&nbsp;</p>",
+    "hazard_discussion": "<p>We find ourselves in a tricky and fairly unusual situation this spring. Oftentimes, by this point in the season, we are dealing with a simple and predictable snowpack. Unfortunately, the prolonged drought during the months of January, February (and now March) left us with a smattering of weak layers in the upper snowpack. The presence and character of these layers varies from slope to slope and from Forecast Zone to Forecast Zone. What's more, instead of testing these weak layers with big storms we've been stuck with small storms that gradually build a slab of snow on top of these weak layers and provide us with little to no feedback about how these weak layers are reacting to the load along the way.</p>\n<p>In the past week, we received some clear feedback that concern about these weak layers was well deserved: multiple human-triggered avalanches are clear indications that avalanches involving layers of weak snow in the upper snowpack are possible. The tricky part is that we need the find the right (wrong) combination of the slab and weak layer to make this happen. You can limit (but not completely eliminate) the slab portion of this equation by seeking out terrain that hasn't been affected by the wind. Remember that recent snow may be masking the effects of earlier wind loading. Seeking out slopes that are a bit gentler (less than about 35 degrees) can also help you reduce your risk. Don't forget that the danger is MODERATE for a reason today: human-triggered avalanches are possible.&nbsp;</p>\n<p>Catch up on what happened this past week in Scott's latest <a href=\"https://www.youtube.com/watch?v=wyccjg3fsjs\" target=\"_blank\" rel=\"noopener\">Weekend Update</a>!</p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+      {
+        "id": 1,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DJI_0240_6236fcd1cd320.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DJI_0240_6236fcd1cd320.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DJI_0240_6236fcd1cd320.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DJI_0240_6236fcd1cd320.jpg"
+        },
+        "type": "image",
+        "caption": "(3/19/2022) Riders in the Baker Creek drainage triggered this avalanche on Friday, March 18th. It was remotely triggered from the ridgeline in the upper right of the photo, and occurred on a wind loaded, E-NE facing slope at 9500'. It broke over 100' wide and 10-16\" thick."
+      },
+      {
+        "id": 2,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/4589F77E-4BDC-41D5-B2EF-38CE4008AF1E-rotated-e1647685359524_6235ca4d64e84.jpeg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/4589F77E-4BDC-41D5-B2EF-38CE4008AF1E-rotated-e1647685359524_6235ca4d64e84.jpeg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/4589F77E-4BDC-41D5-B2EF-38CE4008AF1E-rotated-e1647685359524_6235ca4d64e84.jpeg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/4589F77E-4BDC-41D5-B2EF-38CE4008AF1E-rotated-e1647685359524_6235ca4d64e84.jpeg"
+        },
+        "type": "image",
+        "caption": "<p>(3/18/2022) Riders in the Baker Creek drainage triggered this avalanche on Friday, March 18th. It was remotely triggered from the ridgeline in the upper part of the photo, and occurred on a wind-loaded, E-NE facing slope at 9500'. It broke over 100' wide and 10-16\" thick.</p>"
+      },
+      {
+        "id": 3,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/F55817AF-7D03-4F3F-BAAD-64376E5C514F-e1647692279658_6235ca515d54d.png",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/F55817AF-7D03-4F3F-BAAD-64376E5C514F-e1647692279658_6235ca515d54d.png",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/F55817AF-7D03-4F3F-BAAD-64376E5C514F-e1647692279658_6235ca515d54d.png",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/F55817AF-7D03-4F3F-BAAD-64376E5C514F-e1647692279658_6235ca515d54d.png"
+        },
+        "type": "image",
+        "caption": "<p>(3/18/2022) Riders in the Baker Creek drainage triggered this avalanche on Friday, March 18th. It occurred on a wind-loaded, NE facing slope at 9500'. It broke over 100' wide and 10-16\" thick.</p>"
+      },
+      {
+        "id": 4,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/wyccjg3fsjs_6235ca4a3f02a.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/wyccjg3fsjs_6235ca4a3f02a.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/wyccjg3fsjs_6235ca4a3f02a.jpg",
+          "video_id": "wyccjg3fsjs",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/wyccjg3fsjs_6235ca4a3f02a.jpg"
+        },
+        "type": "video",
+        "caption": "(3/18/2022) Join Scott for a spin through the avalanche and weather conditions of the past week, a snapshot of where we're at now, and a glimpse of what may be headed our way. "
+      },
+      {
+        "id": 5,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/uUL-XHURV5o_62346f97d8be3.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/uUL-XHURV5o_62346f97d8be3.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/uUL-XHURV5o_62346f97d8be3.jpg",
+          "video_id": "uUL-XHURV5o",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/uUL-XHURV5o_62346f97d8be3.jpg"
+        },
+        "type": "video",
+        "caption": "(3/17/2022) Recent storms are building a slab atop various weak layers in the top few feet of the snowpack. On Wednesday (March 16), a skier triggered a 6-10\" thick slab further south in this zone. In this video, Chris found the same weak layer that was responsible for that avalanche but beneath a 16\" thick slab. The layering produced unstable snowpack test scores. These weak layers do not exist on all slopes, which makes assessing slope stability challenging at best. Under these conditions, taking a step back and choosing lower slope angles is the best approach."
+      },
+      {
+        "id": 6,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Resized_20220317_121659_62346f90aa396.jpeg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Resized_20220317_121659_62346f90aa396.jpeg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Resized_20220317_121659_62346f90aa396.jpeg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Resized_20220317_121659_62346f90aa396.jpeg"
+        },
+        "type": "image",
+        "caption": "(3/17/2022) Small skier-triggered slab avalanche in recently wind-loaded terrain. Copper Mountain, Banner Summit Zone. Photo: Trollan"
+      },
+      {
+        "id": 7,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Resized_20220317_131757_62346f8f35283.jpeg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Resized_20220317_131757_62346f8f35283.jpeg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Resized_20220317_131757_62346f8f35283.jpeg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/Resized_20220317_131757_62346f8f35283.jpeg"
+        },
+        "type": "image",
+        "caption": "(3/17/2022) Small skier-triggered slab avalanche in recently wind-loaded terrain. Copper Mountain, Banner Summit Zone. Photo: Trollan"
+      },
+      {
+        "id": 8,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20220316_133446-rotated-e1647484899493_6232a0db23a14.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20220316_133446-rotated-e1647484899493_6232a0db23a14.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20220316_133446-rotated-e1647484899493_6232a0db23a14.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20220316_133446-rotated-e1647484899493_6232a0db23a14.jpg"
+        },
+        "type": "image",
+        "caption": "(3/16/2022) Debris from a small skier-triggered slab avalanche. The avalanche broke 150' wide and 6-10\" deep on a thin layer of small facets above a stout rain crust. \n\nThe slide occurred in the Smiley Ck drainage on a NE-facing slope at 8,500'. "
+      }
+    ],
+    "weather_data": {
+      "weather_product_id": 109137
+    },
+    "json_data": null,
+    "avalanche_center": {
+      "id": "SNFAC",
+      "name": "Sawtooth Avalanche Center",
+      "url": "https://www.sawtoothavalanche.com/",
+      "city": "Ketchum",
+      "state": "ID"
+    },
+    "forecast_avalanche_problems": [
+      {
+        "id": 93409,
+        "forecast_id": 109134,
+        "avalanche_problem_id": 4,
+        "rank": 1,
+        "likelihood": "possible",
+        "discussion": "<p>Multiple human-triggered avalanches have occurred in the past 5 days. All involved layers of weak snow in the upper snowpack. On Friday in the Baker Creek drainage, riders triggered three avalanches on wind-loaded slopes&mdash;one was remotely triggered from the ridgeline above (<a href=\"https://www.sawtoothavalanche.com/default-6/\" target=\"_blank\" rel=\"noopener\">photo</a>, <a href=\"https://www.sawtoothavalanche.com/f55817af-7d03-4f3f-baad-64376e5c514f/\" target=\"_blank\" rel=\"noopener\">photo</a>). I looked at these slides on Saturday and found that they failed 10-16\" down on a layer of well-developed facets that formed during the mid-winter drought. A different weak layer&mdash;facets on a crust&mdash;was responsible for a&nbsp; skier-triggered slide on Wednesday near the head of Smiley Creek. These slides are clear indicators triggering an avalanche involving this weak snow is possible.</p>\n<p>Both of these weak layers (and others) exist in this zone. The combination of weak layer + slab is not widespread, but where it exists it is possible to trigger an avalanche large enough to bury you. You are most likely to trigger an avalanche that breaks on these persistent weak layers where the wind has built a stiffer, denser slab on top of them. Moderate to strong winds over the past weeks have affected the snow in both middle and upper elevation terrain. And while less likely, slabs failing in sheltered terrain can't be entirely ruled out. You can significantly reduce your risk of triggering a slide involving these layers on slopes that are less than 35 degrees that are sheltered from the effects of the wind.</p>\n<p><strong>ADDITIONAL DISCUSSION:</strong> 1-2\" of snow fell in this Zone on Saturday night. Winds blowing out of the NW transported this new snow into small, isolated drifts that may continue to be reactive to your weight today. While small, they may be large enough to knock you off your feet, which can have higher consequences in steep, rocky terrain. Importantly, these slabs are adding weight to the buried persistent weak layers described above.</p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/uUL-XHURV5o_62346f97d8be3.jpg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/uUL-XHURV5o_62346f97d8be3.jpg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/uUL-XHURV5o_62346f97d8be3.jpg",
+            "video_id": "uUL-XHURV5o",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/uUL-XHURV5o_62346f97d8be3.jpg"
+          },
+          "type": "video",
+          "caption": "<p>(3/17/2022) Recent storms are building a slab atop various weak layers in the top few feet of the snowpack. On Wednesday (March 16), a skier triggered a 6-10\" thick slab further south in this zone. In this video, Chris found the same weak layer that was responsible for that avalanche but beneath a 16\" thick slab. The layering produced unstable snowpack test scores.&nbsp;</p>"
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "northwest middle"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Persistent Slab",
+        "problem_description": "Persistent Slab avalanches are the release of a cohesive layer of snow (a slab) in the middle to upper snowpack, when the bond to an underlying persistent weak layer breaks. Persistent layers include: surface hoar, depth hoar, near-surface facets, or faceted snow. Persistent weak layers can continue to produce avalanches for days, weeks or even months, making them especially dangerous and tricky. As additional snow and wind events build a thicker slab on top of the persistent weak layer, this avalanche problem may develop into a Deep Persistent Slab.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/PersistentSlab.png"
+      }
+    ],
+    "danger": [
+      {
+        "lower": 1,
+        "upper": 2,
+        "middle": 2,
+        "valid_day": "current"
+      },
+      {
+        "lower": 1,
+        "upper": 2,
+        "middle": 2,
+        "valid_day": "tomorrow"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 478,
+        "name": "Banner Summit",
+        "url": "https://www.sawtoothavalanche.com/forecasts/#/banner-summit",
+        "state": "ID",
+        "zone_id": "1"
+      }
+    ]
+  },
+  "294": {
+    "id": 109132,
+    "published_time": "2022-03-21T13:21:00+00:00",
+    "expires_time": "2022-03-22T12:00:00+00:00",
+    "created_at": "2022-03-21T10:45:19+00:00",
+    "updated_at": "2022-03-21T13:21:03+00:00",
+    "author": "Ben VandenBos",
+    "product_type": "forecast",
+    "bottom_line": "<p>You are most likely to trigger an avalanche where the wind has stiffened the snow above weak layers in the upper snowpack. While less likely, there is a chance of triggering an avalanche in very steep, wind-sheltered terrain. You can significantly reduce your risk of encountering an avalanche by choosing gentler terrain that is sheltered from the wind.&nbsp;</p>",
+    "hazard_discussion": "<p>We find ourselves in a tricky and fairly unusual situation this spring. Oftentimes, by this point in the season, we are dealing with a simple and predictable snowpack. Unfortunately, the prolonged drought during the months of January, February (and now March) left us with a smattering of weak layers in the upper snowpack. The presence and character of these layers varies from slope to slope and from Forecast Zone to Forecast Zone. What's more, instead of testing these weak layers with big storms we've been stuck with small storms that gradually build a slab of snow on top of these weak layers and provide us with little to no feedback about how these weak layers are reacting to the load along the way.</p>\n<p>In the past week, we received some clear feedback that concern about these weak layers was well deserved: multiple human-triggered avalanches are clear indications that avalanches involving layers of weak snow in the upper snowpack are possible. The tricky part is that we need the find the right (wrong) combination of the slab and weak layer to make this happen. You can limit (but not completely eliminate) the slab portion of this equation by seeking out terrain that hasn't been affected by the wind. Remember that recent snow may be masking the effects of earlier wind loading. Seeking out slopes that are a bit gentler (less than about 35 degrees) can also help you reduce your risk. Don't forget that the danger is MODERATE for a reason today: human-triggered avalanches are possible.&nbsp;</p>\n<p>Catch up on what happened this past week in Scott's latest <a href=\"https://www.youtube.com/watch?v=wyccjg3fsjs\" target=\"_blank\" rel=\"noopener\">Weekend Update</a>!</p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+      {
+        "id": 1,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DJI_0240_6236fcd1cd320.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DJI_0240_6236fcd1cd320.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DJI_0240_6236fcd1cd320.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DJI_0240_6236fcd1cd320.jpg"
+        },
+        "type": "image",
+        "caption": "(3/19/2022) Riders in the Baker Creek drainage triggered this avalanche on Friday, March 18th. It was remotely triggered from the ridgeline in the upper right of the photo, and occurred on a wind loaded, E-NE facing slope at 9500'. It broke over 100' wide and 10-16\" thick."
+      },
+      {
+        "id": 2,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/4589F77E-4BDC-41D5-B2EF-38CE4008AF1E-rotated-e1647685359524_6235ca4d64e84.jpeg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/4589F77E-4BDC-41D5-B2EF-38CE4008AF1E-rotated-e1647685359524_6235ca4d64e84.jpeg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/4589F77E-4BDC-41D5-B2EF-38CE4008AF1E-rotated-e1647685359524_6235ca4d64e84.jpeg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/4589F77E-4BDC-41D5-B2EF-38CE4008AF1E-rotated-e1647685359524_6235ca4d64e84.jpeg"
+        },
+        "type": "image",
+        "caption": "<p>(3/18/2022) Riders in the Baker Creek drainage triggered this avalanche on Friday, March 18th. It was remotely triggered from the ridgeline in the upper part of the photo, and occurred on a wind-loaded, E-NE facing slope at 9500'. It broke over 100' wide and 10-16\" thick.</p>"
+      },
+      {
+        "id": 3,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/F55817AF-7D03-4F3F-BAAD-64376E5C514F-e1647692279658_6235ca515d54d.png",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/F55817AF-7D03-4F3F-BAAD-64376E5C514F-e1647692279658_6235ca515d54d.png",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/F55817AF-7D03-4F3F-BAAD-64376E5C514F-e1647692279658_6235ca515d54d.png",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/F55817AF-7D03-4F3F-BAAD-64376E5C514F-e1647692279658_6235ca515d54d.png"
+        },
+        "type": "image",
+        "caption": "<p>(3/18/2022) Riders in the Baker Creek drainage triggered this avalanche on Friday, March 18th. It occurred on a wind-loaded, NE facing slope at 9500'. It broke over 100' wide and 10-16\" thick.</p>"
+      },
+      {
+        "id": 4,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/wyccjg3fsjs_6235ca4a3f02a.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/wyccjg3fsjs_6235ca4a3f02a.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/wyccjg3fsjs_6235ca4a3f02a.jpg",
+          "video_id": "wyccjg3fsjs",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/wyccjg3fsjs_6235ca4a3f02a.jpg"
+        },
+        "type": "video",
+        "caption": "(3/18/2022) Join Scott for a spin through the avalanche and weather conditions of the past week, a snapshot of where we're at now, and a glimpse of what may be headed our way. "
+      },
+      {
+        "id": 5,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/uUL-XHURV5o_62346f97d8be3.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/uUL-XHURV5o_62346f97d8be3.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/uUL-XHURV5o_62346f97d8be3.jpg",
+          "video_id": "uUL-XHURV5o",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/uUL-XHURV5o_62346f97d8be3.jpg"
+        },
+        "type": "video",
+        "caption": "(3/17/2022) Recent storms are building a slab atop various weak layers in the top few feet of the snowpack. On Wednesday (March 16), a skier triggered a 6-10\" thick slab further south in this zone. In this video, Chris found the same weak layer that was responsible for that avalanche but beneath a 16\" thick slab. The layering produced unstable snowpack test scores. These weak layers do not exist on all slopes, which makes assessing slope stability challenging at best. Under these conditions, taking a step back and choosing lower slope angles is the best approach."
+      },
+      {
+        "id": 6,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220316_Smiley_Ann_6232a0db392ce.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220316_Smiley_Ann_6232a0db392ce.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220316_Smiley_Ann_6232a0db392ce.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220316_Smiley_Ann_6232a0db392ce.jpg"
+        },
+        "type": "image",
+        "caption": "(3/16/2022) There is about 10\" of settled snow here since Sunday (3/13). The weakest interface was under the snow that fell on Sunday. The weak layer is a thin layer of facets that sit above a stout crust (3/8)."
+      },
+      {
+        "id": 7,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20220316_133446-rotated-e1647484899493_6232a0db23a14.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20220316_133446-rotated-e1647484899493_6232a0db23a14.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20220316_133446-rotated-e1647484899493_6232a0db23a14.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20220316_133446-rotated-e1647484899493_6232a0db23a14.jpg"
+        },
+        "type": "image",
+        "caption": "(3/16/2022) Debris from a small skier-triggered slab avalanche. The avalanche broke 150' wide and 6-10\" deep on a thin layer of small facets above a stout rain crust. \n\nThe slide occurred in the Smiley Ck drainage on a NE-facing slope at 8,500'. "
+      }
+    ],
+    "weather_data": {
+      "weather_product_id": 109137
+    },
+    "json_data": null,
+    "avalanche_center": {
+      "id": "SNFAC",
+      "name": "Sawtooth Avalanche Center",
+      "url": "https://www.sawtoothavalanche.com/",
+      "city": "Ketchum",
+      "state": "ID"
+    },
+    "forecast_avalanche_problems": [
+      {
+        "id": 93413,
+        "forecast_id": 109132,
+        "avalanche_problem_id": 4,
+        "rank": 1,
+        "likelihood": "possible",
+        "discussion": "<p>Multiple human-triggered avalanches have occurred in the past 5 days. All involved layers of weak snow in the upper snowpack. On Friday in the Baker Creek drainage, riders triggered three avalanches on wind-loaded slopes&mdash;one was remotely triggered from the ridgeline above (<a href=\"https://www.sawtoothavalanche.com/default-6/\" target=\"_blank\" rel=\"noopener\">photo</a>, <a href=\"https://www.sawtoothavalanche.com/f55817af-7d03-4f3f-baad-64376e5c514f/\" target=\"_blank\" rel=\"noopener\">photo</a>). I looked at these slides on Saturday and found that they failed 10-16\" down on a layer of well-developed facets that formed during the mid-winter drought. A different weak layer&mdash;facets on a crust&mdash;was responsible for a&nbsp; skier-triggered slide on Wednesday near the head of Smiley Creek. These slides are clear indicators triggering an avalanche involving this weak snow is possible.</p>\n<p>Both of these weak layers (and others) exist in this zone. The combination of weak layer + slab is not widespread, but where it exists it is possible to trigger an avalanche large enough to bury you. You are most likely to trigger an avalanche that breaks on these persistent weak layers where the wind has built a stiffer, denser slab on top of them. Moderate to strong winds over the past weeks have affected the snow in both middle and upper elevation terrain. And while less likely, slabs failing in sheltered terrain can't be entirely ruled out. You can significantly reduce your risk of triggering a slide involving these layers on slopes that are less than 35 degrees that are sheltered from the effects of the wind.</p>\n<p><strong>ADDITIONAL DISCUSSION:</strong> 1-2\" of snow fell in this Zone on Saturday night. Winds blowing out of the NW transported this new snow into small, isolated drifts that may continue to be reactive to your weight today. While small, they may be large enough to knock you off your feet, which can have higher consequences in steep, rocky terrain. Importantly, these slabs are adding weight to the buried persistent weak layers described above.</p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/uUL-XHURV5o_62346f97d8be3.jpg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/uUL-XHURV5o_62346f97d8be3.jpg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/uUL-XHURV5o_62346f97d8be3.jpg",
+            "video_id": "uUL-XHURV5o",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/uUL-XHURV5o_62346f97d8be3.jpg"
+          },
+          "type": "video",
+          "caption": "<p>(3/17/2022) Recent storms are building a slab atop various weak layers in the top few feet of the snowpack. On Wednesday (March 16), a skier triggered a 6-10\" thick slab further south in this zone. In this video, Chris found the same weak layer that was responsible for that avalanche but beneath a 16\" thick slab. The layering produced unstable snowpack test scores.&nbsp;</p>"
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "northwest middle"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Persistent Slab",
+        "problem_description": "Persistent Slab avalanches are the release of a cohesive layer of snow (a slab) in the middle to upper snowpack, when the bond to an underlying persistent weak layer breaks. Persistent layers include: surface hoar, depth hoar, near-surface facets, or faceted snow. Persistent weak layers can continue to produce avalanches for days, weeks or even months, making them especially dangerous and tricky. As additional snow and wind events build a thicker slab on top of the persistent weak layer, this avalanche problem may develop into a Deep Persistent Slab.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/PersistentSlab.png"
+      }
+    ],
+    "danger": [
+      {
+        "lower": 1,
+        "upper": 2,
+        "middle": 2,
+        "valid_day": "current"
+      },
+      {
+        "lower": 1,
+        "upper": 2,
+        "middle": 2,
+        "valid_day": "tomorrow"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 477,
+        "name": "Sawtooth & Western Smoky Mtns",
+        "url": "https://www.sawtoothavalanche.com/forecasts/#/sawtooth-&-western-smoky-mtns",
+        "state": "ID",
+        "zone_id": "2"
+      }
+    ]
+  },
+  "295": {
+    "id": 109133,
+    "published_time": "2022-03-21T13:20:00+00:00",
+    "expires_time": "2022-03-22T12:00:00+00:00",
+    "created_at": "2022-03-21T10:45:20+00:00",
+    "updated_at": "2022-03-21T13:21:00+00:00",
+    "author": "Ben VandenBos",
+    "product_type": "forecast",
+    "bottom_line": "<p>Triggering a large avalanche is most likely on wind-exposed slopes at upper elevations. You can significantly reduce your risk of encountering an avalanche by choosing gentler terrain that is sheltered from the wind.&nbsp;</p>",
+    "hazard_discussion": "<p>We find ourselves in a tricky and fairly unusual situation this spring. Oftentimes, by this point in the season, we are dealing with a simple and predictable snowpack. Unfortunately, the prolonged drought during the months of January, February (and now March) left us with a smattering of weak layers in the upper snowpack. The presence and character of these layers varies from slope to slope and from Forecast Zone to Forecast Zone. What's more, instead of testing these weak layers with big storms we've been stuck with small storms that gradually build a slab of snow on top of these weak layers and provide us with little to no feedback about how these weak layers are reacting to the load along the way.</p>\n<p>In the past week, we received some clear feedback that concern about these weak layers was well deserved: multiple human-triggered avalanches are clear indications that avalanches involving layers of weak snow in the upper snowpack are possible. The tricky part is that we need the find the right (wrong) combination of the slab and weak layer to make this happen. You can limit (but not completely eliminate) the slab portion of this equation by seeking out terrain that hasn't been affected by the wind. Remember that recent snow may be masking the effects of earlier wind loading. Seeking out slopes that are a bit gentler (less than about 35 degrees) can also help you reduce your risk. Don't forget that the danger is MODERATE for a reason today: human-triggered avalanches are possible.&nbsp;</p>\n<p>Catch up on what happened this past week in Scott's latest <a href=\"https://www.youtube.com/watch?v=wyccjg3fsjs\" target=\"_blank\" rel=\"noopener\">Weekend Update</a>!</p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+      {
+        "id": 1,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/F55817AF-7D03-4F3F-BAAD-64376E5C514F-e1647692279658_6235ca515d54d.png",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/F55817AF-7D03-4F3F-BAAD-64376E5C514F-e1647692279658_6235ca515d54d.png",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/F55817AF-7D03-4F3F-BAAD-64376E5C514F-e1647692279658_6235ca515d54d.png",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/F55817AF-7D03-4F3F-BAAD-64376E5C514F-e1647692279658_6235ca515d54d.png"
+        },
+        "type": "image",
+        "caption": "<p>(3/18/2022) Riders in the Baker Creek drainage triggered this avalanche on Friday, March 18th. It occurred on a wind-loaded, NE facing slope at 9500'. It broke over 100' wide and 10-16\" thick.</p>"
+      },
+      {
+        "id": 2,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/4589F77E-4BDC-41D5-B2EF-38CE4008AF1E-rotated-e1647685359524_6235ca4d64e84.jpeg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/4589F77E-4BDC-41D5-B2EF-38CE4008AF1E-rotated-e1647685359524_6235ca4d64e84.jpeg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/4589F77E-4BDC-41D5-B2EF-38CE4008AF1E-rotated-e1647685359524_6235ca4d64e84.jpeg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/4589F77E-4BDC-41D5-B2EF-38CE4008AF1E-rotated-e1647685359524_6235ca4d64e84.jpeg"
+        },
+        "type": "image",
+        "caption": "<p>(3/18/2022) Riders in the Baker Creek drainage triggered this avalanche on Friday, March 18th. It was remotely triggered from the ridgeline in the upper part of the photo, and occurred on a wind-loaded, E-NE facing slope at 9500'. It broke over 100' wide and 10-16\" thick.</p>"
+      },
+      {
+        "id": 3,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/wyccjg3fsjs_6235ca4a3f02a.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/wyccjg3fsjs_6235ca4a3f02a.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/wyccjg3fsjs_6235ca4a3f02a.jpg",
+          "video_id": "wyccjg3fsjs",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/wyccjg3fsjs_6235ca4a3f02a.jpg"
+        },
+        "type": "video",
+        "caption": "(3/18/2022) Join Scott for a spin through the avalanche and weather conditions of the past week, a snapshot of where we're at now, and a glimpse of what may be headed our way. "
+      },
+      {
+        "id": 4,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220316_Smiley_Ann_6232a0db392ce.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220316_Smiley_Ann_6232a0db392ce.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220316_Smiley_Ann_6232a0db392ce.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220316_Smiley_Ann_6232a0db392ce.jpg"
+        },
+        "type": "image",
+        "caption": "(3/16/2022) There is about 10\" of settled snow here since Sunday (3/13). The weakest interface was under the snow that fell on Sunday. The weak layer is a thin layer of facets that sit above a stout crust (3/8)."
+      },
+      {
+        "id": 5,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20220316_133446-rotated-e1647484899493_6232a0db23a14.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20220316_133446-rotated-e1647484899493_6232a0db23a14.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20220316_133446-rotated-e1647484899493_6232a0db23a14.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/20220316_133446-rotated-e1647484899493_6232a0db23a14.jpg"
+        },
+        "type": "image",
+        "caption": "(3/16/2022) Debris from a small skier-triggered slab avalanche. The avalanche broke 150' wide and 6-10\" deep on a thin layer of small facets above a stout rain crust. \n\nThe slide occurred in the Smiley Ck drainage on a NE-facing slope at 8,500'. "
+      },
+      {
+        "id": 6,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220309_Apollo_00_6229680e0bb1a.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220309_Apollo_00_6229680e0bb1a.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220309_Apollo_00_6229680e0bb1a.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220309_Apollo_00_6229680e0bb1a.jpg"
+        },
+        "type": "image",
+        "caption": "<p>(3/9/2022) This small wind slab formed just below an exposed ridge on an E-facing slope at 9,600' in the Smoky Mountains. These small slabs ranged from 15-25 cm thick in this location and tapered quickly in more sheltered terrain.</p>"
+      },
+      {
+        "id": 7,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220309_Apollo_08_6229680e396f8.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220309_Apollo_08_6229680e396f8.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220309_Apollo_08_6229680e396f8.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220309_Apollo_08_6229680e396f8.jpg"
+        },
+        "type": "image",
+        "caption": "<p>(3/9/2022) ECTNs and ECTPs (6 and 7 taps) on small facets. NE facing slope above Apollo Ck in the Smoky Mountains at 9,500'.&nbsp;</p>"
+      },
+      {
+        "id": 8,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220302_McDonald_03_62202e798beed.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220302_McDonald_03_62202e798beed.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220302_McDonald_03_62202e798beed.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220302_McDonald_03_62202e798beed.jpg"
+        },
+        "type": "image",
+        "caption": "(3/2/2022) This large slab avalanche released at 9,500' on the north face of Saviers Pk in the Smoky Mountains. The slab spanned well over 1,000' and likely failed on weak faceted snow that formed during the drought. "
+      }
+    ],
+    "weather_data": {
+      "weather_product_id": 109137
+    },
+    "json_data": null,
+    "avalanche_center": {
+      "id": "SNFAC",
+      "name": "Sawtooth Avalanche Center",
+      "url": "https://www.sawtoothavalanche.com/",
+      "city": "Ketchum",
+      "state": "ID"
+    },
+    "forecast_avalanche_problems": [
+      {
+        "id": 93411,
+        "forecast_id": 109133,
+        "avalanche_problem_id": 4,
+        "rank": 1,
+        "likelihood": "possible",
+        "discussion": "<p>Multiple human-triggered avalanches have occurred in the past 5 days. All involved layers of weak snow in the upper snowpack. On Friday in the Baker Creek drainage, riders triggered three avalanches on wind-loaded slopes&mdash;one was remotely triggered from the ridgeline above (<a href=\"https://www.sawtoothavalanche.com/default-6/\" target=\"_blank\" rel=\"noopener\">photo</a>, <a href=\"https://www.sawtoothavalanche.com/f55817af-7d03-4f3f-baad-64376e5c514f/\" target=\"_blank\" rel=\"noopener\">photo</a>). I looked at these slides on Saturday and found that they failed 10-16\" down on a layer of well-developed facets that formed during the mid-winter drought. A different weak layer&mdash;facets on a crust&mdash;was responsible for a&nbsp; skier-triggered slide on Wednesday near the head of Smiley Creek. These slides are clear indicators triggering an avalanche involving this weak snow is possible.</p>\n<p>This zone has received less recent snowfall than further north, and you generally need added loading from wind to have a slab. Signs of past wind loading may be masked by more recent snowfall. The combination of weak layer + slab is not widespread, but where it exists it is possible to trigger an avalanche large enough to bury you. Moderate to strong winds over the past weeks have affected the snow in both middle and upper elevation terrain.&nbsp; You can significantly reduce your risk of triggering a slide involving these layers on slopes that are less than 35 degrees that are sheltered from the effects of the wind.</p>\n<p><strong>ADDITIONAL DISCUSSION:</strong> 1-2\" of snow fell in this Zone on Saturday night. Winds blowing out of the NW transported this new snow into small, isolated drifts that may continue to be reactive to your weight today. While small, they may be large enough to knock you off your feet, which can have higher consequences in steep, rocky terrain. Importantly, these slabs are adding weight to the buried persistent weak layers described above.</p>",
+        "media": {
+          "url": {
+            "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DJI_0240_6236fcd1cd320.jpg",
+            "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DJI_0240_6236fcd1cd320.jpg",
+            "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DJI_0240_6236fcd1cd320.jpg",
+            "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/DJI_0240_6236fcd1cd320.jpg"
+          },
+          "type": "image",
+          "caption": "(3/19/2022) Riders in the Baker Creek drainage triggered this avalanche on Friday, March 18th. It was remotely triggered from the ridgeline in the upper right of the photo, and occurred on a wind loaded, E-NE facing slope at 9500'. It broke over 100' wide and 10-16\" thick."
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "northwest middle",
+          "north middle",
+          "northeast middle",
+          "east middle"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Persistent Slab",
+        "problem_description": "Persistent Slab avalanches are the release of a cohesive layer of snow (a slab) in the middle to upper snowpack, when the bond to an underlying persistent weak layer breaks. Persistent layers include: surface hoar, depth hoar, near-surface facets, or faceted snow. Persistent weak layers can continue to produce avalanches for days, weeks or even months, making them especially dangerous and tricky. As additional snow and wind events build a thicker slab on top of the persistent weak layer, this avalanche problem may develop into a Deep Persistent Slab.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/PersistentSlab.png"
+      }
+    ],
+    "danger": [
+      {
+        "lower": 1,
+        "upper": 2,
+        "middle": 1,
+        "valid_day": "current"
+      },
+      {
+        "lower": 1,
+        "upper": 2,
+        "middle": 1,
+        "valid_day": "tomorrow"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 475,
+        "name": "Galena Summit & Eastern Mtns",
+        "url": "https://www.sawtoothavalanche.com/forecasts/#/galena-summit-&-eastern-mtns",
+        "state": "ID",
+        "zone_id": "3"
+      }
+    ]
+  },
+  "296": {
+    "id": 109131,
+    "published_time": "2022-03-21T13:21:00+00:00",
+    "expires_time": "2022-03-22T12:00:00+00:00",
+    "created_at": "2022-03-21T10:45:19+00:00",
+    "updated_at": "2022-03-21T13:21:08+00:00",
+    "author": "Ben VandenBos",
+    "product_type": "forecast",
+    "bottom_line": "<p>The snowpack is generally stable and triggering an avalanche is unlikely. Watch for isolated slopes with pockets of recently wind-drifted snow. Small wet loose avalanches are possible on very steep, rocky slopes receiving direct sun.&nbsp;</p>",
+    "hazard_discussion": "<p>The snowpack is generally stable and triggering an avalanche is unlikely. This zone has received much less recent snowfall than our northern zones&mdash;hardly any in fact. Most steep SE-S-SW-W facing slopes at lower and middle elevations are bare, especially in the southern reaches of the zone. Be on the lookout for the small, isolated problems described below:</p>\n<p><strong>WIND SLABS: </strong>The trace-1\" of new snow that fell on Saturday night was blown into small, isolated drifts by NW winds. Look for these near ridgelines and on the sides of cross-loaded gullies and chutes. These will be more common at upper elevations but you may find some slabs at middle elevations as well. Some of them formed on slick, icy crusts and well-developed facets. They probably won't be large enough to bury you but they could knock you off your feet or your sled and carry you downslope.</p>\n<p><strong>WET AVALANCHES:&nbsp;</strong>Wet avalanches are possible any time above-freezing temperatures and/or sunshine cause the snow surface to melt. Today will be a bit warmer than yesterday and it may become possible to trigger one on very steep&nbsp; slopes that face the sun&mdash;especially where the snowpack is less than about 2' thick.</p>\n<p>Catch up on what happened this past week in Scott's latest <a href=\"https://www.youtube.com/watch?v=wyccjg3fsjs\" target=\"_blank\" rel=\"noopener\">Weekend Update</a>!</p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+      {
+        "id": 1,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/wyccjg3fsjs_6235ca4a3f02a.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/wyccjg3fsjs_6235ca4a3f02a.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/wyccjg3fsjs_6235ca4a3f02a.jpg",
+          "video_id": "wyccjg3fsjs",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/wyccjg3fsjs_6235ca4a3f02a.jpg"
+        },
+        "type": "video",
+        "caption": "(3/18/2022) Join Scott for a spin through the avalanche and weather conditions of the past week, a snapshot of where we're at now, and a glimpse of what may be headed our way. "
+      },
+      {
+        "id": 2,
+        "url": {
+          "large": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220308_Soldiers_01_622a0204df631.jpg",
+          "medium": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220308_Soldiers_01_622a0204df631.jpg",
+          "original": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220308_Soldiers_01_622a0204df631.jpg",
+          "thumbnail": "https://avalanche-org-media.s3.us-west-2.amazonaws.com/220308_Soldiers_01_622a0204df631.jpg"
+        },
+        "type": "image",
+        "caption": "<p>(3/8/2022) New snow drifting along the Salt Bowns Rd in the Soldiers.</p>"
+      }
+    ],
+    "weather_data": {
+      "weather_product_id": 109137
+    },
+    "json_data": null,
+    "avalanche_center": {
+      "id": "SNFAC",
+      "name": "Sawtooth Avalanche Center",
+      "url": "https://www.sawtoothavalanche.com/",
+      "city": "Ketchum",
+      "state": "ID"
+    },
+    "forecast_avalanche_problems": [
+
+    ],
+    "danger": [
+      {
+        "lower": 1,
+        "upper": 1,
+        "middle": 1,
+        "valid_day": "current"
+      },
+      {
+        "lower": 1,
+        "upper": 1,
+        "middle": 1,
+        "valid_day": "tomorrow"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 476,
+        "name": "Soldier & Wood River Valley Mtns",
+        "url": "https://www.sawtoothavalanche.com/forecasts/#/soldier-&-wood-river-valley-mtns",
+        "state": "ID",
+        "zone_id": "4"
+      }
+    ]
+  }
+}
