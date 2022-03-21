@@ -1,0 +1,174 @@
+{
+  "205": {
+    "id": 109126,
+    "published_time": "2022-03-21T04:10:00+00:00",
+    "expires_time": "2022-03-22T04:00:00+00:00",
+    "created_at": "2022-03-21T03:54:32+00:00",
+    "updated_at": "2022-03-21T04:10:09+00:00",
+    "author": "Gabriel Coler",
+    "product_type": "forecast",
+    "bottom_line": "<p>Stormy weather, and rising temperatures could lead to avalanche activity tomorrow afternoon.&nbsp; Slopes that receive rain will produce Wet loose avalanches and possibly Wet Slabs.&nbsp; If you are out skiing in the rain, avoid steep unsupported slopes.</p>\n<p>Shallow Wind Slab avalanches are possible on East slopes in the morning, but by afternoon will only remain at near summit elevations.</p>",
+    "hazard_discussion": "<p>Monday will be a day of transition to warmer weather with a little moisture to kick things off.&nbsp; Avalanche activity&nbsp; depends on the intensity and duration of any rain, and the accompanying warm up.&nbsp; Showery weather may mean few resulting avalanches, whereas more significant rain followed by above freezing overnight temperatures on Monday night could lead to significant avalanche activity.</p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+
+    ],
+    "weather_data": {
+      "weather_product_id": 109125
+    },
+    "json_data": null,
+    "avalanche_center": {
+      "id": "COAA",
+      "name": "Central Oregon Avalanche Center",
+      "url": "http://www.coavalanche.org/",
+      "city": "Bend",
+      "state": "OR"
+    },
+    "forecast_avalanche_problems": [
+      {
+        "id": 93342,
+        "forecast_id": 109126,
+        "avalanche_problem_id": 6,
+        "rank": 1,
+        "likelihood": "likely",
+        "discussion": "<p>Wet Loose avalanches are likely on slopes that receive rain.&nbsp; Rain adds liquid water, and heat to the upper snowpack.&nbsp; When liquid water reaches a critical ratio in relation to ice, then the snow can no longer support itself on the hillside, and we see mushy tear-drop shaped avalanches.&nbsp; While inititally small, these avalanches can become sizeable especially when combined with Wet Slab or Wind Slab activity.</p>",
+        "media": {
+          "url": "",
+          "type": "",
+          "caption": ""
+        },
+        "location": [
+          "south middle",
+          "south lower",
+          "southeast lower",
+          "southeast middle",
+          "east middle",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north upper",
+          "north lower",
+          "northeast lower",
+          "east lower",
+          "southwest lower",
+          "west lower",
+          "northwest lower",
+          "north middle",
+          "northeast middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle",
+          "northeast upper"
+        ],
+        "size": [
+          "1",
+          "1.5"
+        ],
+        "name": "Wet Loose",
+        "problem_description": "Wet Loose avalanches are the release of wet unconsolidated snow or slush. These avalanches typically occur within layers of wet snow near the surface of the snowpack, but they may quickly gouge into lower snowpack layers. Like Loose Dry Avalanches, they start at a point and entrain snow as they move downhill, forming a fan-shaped avalanche. Other names for loose-wet avalanches include point-release avalanches or sluffs. Loose Wet avalanches can trigger slab avalanches that break into deeper snow layers.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/WetLoose.png"
+      },
+      {
+        "id": 93343,
+        "forecast_id": 109126,
+        "avalanche_problem_id": 7,
+        "rank": 2,
+        "likelihood": "possible",
+        "discussion": "<p>Wet Slab avalanches often occurr when we have rain and prolonged warming in combination with weaker layers or impenetrable layers like crusts in our snow pack.&nbsp; Some regions will be checking all of these boxes.&nbsp; Whether or not we see Wet Slab avalanches ultimately depends on how much rain we get.&nbsp; Steer clear of steep, unsupported slopes if you're out skiing in the rain.</p>",
+        "media": {
+          "url": "",
+          "type": "",
+          "caption": ""
+        },
+        "location": [
+          "north upper",
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "south upper",
+          "southwest upper",
+          "west upper",
+          "northwest upper",
+          "north middle",
+          "northeast middle",
+          "east middle",
+          "southeast middle",
+          "south middle",
+          "southwest middle",
+          "west middle",
+          "northwest middle",
+          "north lower",
+          "northeast lower",
+          "east lower",
+          "southeast lower",
+          "south lower",
+          "southwest lower",
+          "west lower",
+          "northwest lower"
+        ],
+        "size": [
+          "1",
+          "2"
+        ],
+        "name": "Wet Slab",
+        "problem_description": "Wet Slab avalanches are the release of a cohesive layer of snow (a slab) that is generally moist or wet when the flow of liquid water weakens the bond between the slab and the surface below (snow or ground). They often occur during prolonged warming events and/or rain-on-snow events. Wet Slabs can be very unpredictable and destructive.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/WetSlab.png"
+      },
+      {
+        "id": 93344,
+        "forecast_id": 109126,
+        "avalanche_problem_id": 3,
+        "rank": 3,
+        "likelihood": "possible",
+        "discussion": "<p>On Saturday there were a few reports of size 1 Wind Slab avalanches from across our region.&nbsp; Wind Slabs will linger into tomorrow morning and will even build a bit with new snow in the morning.&nbsp; Ultimately, with snow levels rising to above 8000 ft. in the afternoon, those at treeline may transition to Wet Slabs.&nbsp; As a result Wind Slabs will only remain at near summit elevations on East slopes.</p>",
+        "media": {
+          "url": "",
+          "type": "",
+          "caption": ""
+        },
+        "location": [
+          "northeast upper",
+          "east upper",
+          "southeast upper",
+          "southeast middle",
+          "east middle",
+          "northeast middle",
+          "north upper",
+          "north middle"
+        ],
+        "size": [
+          "1",
+          "1.5"
+        ],
+        "name": "Wind Slab",
+        "problem_description": "Wind Slab avalanches are the release of a cohesive layer of snow (a slab) formed by the wind. Wind typically transports snow from the upwind sides of terrain features and deposits snow on the downwind side. Wind slabs are often smooth and rounded and sometimes sound hollow, and can range from soft to hard. Wind slabs that form over a persistent weak layer (surface hoar, depth hoar, or near-surface facets) may be termed Persistent Slabs or may develop into Persistent Slabs.",
+        "icon": "http://api.avalanche.org/img/avalanche_problems/WindSlab.png"
+      }
+    ],
+    "danger": [
+      {
+        "lower": 2,
+        "upper": 2,
+        "middle": 2,
+        "valid_day": "current"
+      }
+    ],
+    "forecast_zone": [
+      {
+        "id": 468,
+        "name": "Central Cascades",
+        "url": "https://www.coavalanche.org/forecasts/#/central-cascades",
+        "state": "OR",
+        "zone_id": "central_cascade"
+      }
+    ]
+  },
+  "300": {
+    "NOTE": "BAD DATA"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "276": {
+    "id": 109175,
+    "published_time": "2022-03-21T14:13:00+00:00",
+    "expires_time": "2022-03-24T14:00:00+00:00",
+    "created_at": "2022-03-21T13:52:42+00:00",
+    "updated_at": "2022-03-21T14:14:03+00:00",
+    "author": "Kelly McNeil ",
+    "product_type": "summary",
+    "bottom_line": "<p>As temperatures increase well above freezing over the next three days the snow surface will become wet and loose.&nbsp; Signs of instability in the surface snow include roller balls and pinwheels, indicating the snowpack is changing from dry snow to wet snow.&nbsp; Once temperatures rise above freezing, it's time to travel higher in elevation, change to a shadier aspect, or start heading home.&nbsp; Don't get caught traveling on or under steep terrain features later in the day that have been getting hit by the sun for multiple hours.&nbsp;&nbsp;</p>",
+    "hazard_discussion": "<p>Today through Tuesday evening a weather system is moving through the area bringing some light rain and snow.&nbsp; This system will be on its way out Tuesday morning and high pressure will set in once again with drier and warmer temperatures.&nbsp; We could potentially see temperatures in the 40s and 50s in the mountains starting Wednesday.&nbsp; Freezing levels will be raising from 3400' today to over 9000' by Wednesday.&nbsp;&nbsp;</p>\n<p>&nbsp;</p>",
+    "weather_discussion": null,
+    "announcement": null,
+    "status": "published",
+    "media": [
+
+    ],
+    "weather_data": {
+      "weather_product_id": 109176
+    },
+    "json_data": null,
+    "avalanche_center": {
+      "id": "WAC",
+      "name": "Wallowa Avalanche Center",
+      "url": "http://wallowaavalanchecenter.org/",
+      "city": "La Grande",
+      "state": "OR"
+    },
+    "forecast_avalanche_problems": [
+
+    ],
+    "danger": [
+
+    ],
+    "forecast_zone": [
+      {
+        "id": 437,
+        "name": "Northern Wallowas",
+        "url": "https://www.wallowaavalanchecenter.org/forecasts/#/northern-wallowas",
+        "state": "OR",
+        "zone_id": "norther_wallowas"
+      },
+      {
+        "id": 438,
+        "name": "Southern Wallowas",
+        "url": "https://www.wallowaavalanchecenter.org/forecasts/#/southern-wallowas",
+        "state": "OR",
+        "zone_id": "southern_wallowas"
+      },
+      {
+        "id": 439,
+        "name": "Elkhorns",
+        "url": "https://www.wallowaavalanchecenter.org/forecasts/#/elkhorns",
+        "state": "OR",
+        "zone_id": "elkhorns"
+      },
+      {
+        "id": 440,
+        "name": "Blues",
+        "url": "https://www.wallowaavalanchecenter.org/forecasts/#/blues",
+        "state": "OR",
+        "zone_id": "blues"
+      }
+    ]
+  }
+}
